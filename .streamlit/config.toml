@@ -1,0 +1,13 @@
+[theme]
+base = "dark"
+primaryColor = "#8B8CF8"
+backgroundColor = "#0B0D12"
+secondaryBackgroundColor = "#161A23"
+textColor = "#E6E8EE"
+font = "sans serif"
+
+[server]
+maxUploadSize = 50
+
+[client]
+toolbarMode = "minimal"  # hide developer options such as "Record a screencast"

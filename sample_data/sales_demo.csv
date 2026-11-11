@@ -1,0 +1,2056 @@
+Order ID,Date,City,Product,Category,Qty,Unit price,Revenue
+10001,2025-02-02,Brasov,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+10002,2025-10-10,Timisoara,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+10003,2025-08-27,Bucharest,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+10004,2025-06-10,Iasi,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+10005,2025-06-08,Bucharest,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+10006,2025-11-10,iasi ,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10007,2025-02-01,Timisoara,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+10008,2025-09-12,Bucharest,Laptop Stand,Accessories,4,"149,00 lei",596.0
+10009,2025-03-15,Bucharest,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+10010,2025-02-04,Iasi,Webcam HD,Video,1,"239,00 lei",239.0
+10010,2025-02-04,Iasi,Webcam HD,Video,1,"239,00 lei",239.0
+10011,2025-07-12,Bucharest,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+10012,2025-12-23,Brasov,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+10013,2025-09-26,Iasi,Laptop Stand,,4,"149,00 lei",596.0
+10014,2025-10-05,Iasi,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+10015,2025-09-19,Bucharest,Webcam HD,Video,2,"239,00 lei",478.0
+10016,2025-10-14,IASI,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+10017,2025-07-07,Constanta,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+10018,2025-02-16,Bucharest,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+10019,2025-11-03,Bucharest,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+10020,2025-06-14,Bucharest,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+10021,2025-07-02,Cluj-Napoca,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+10022,2025-05-16,Iasi,Webcam HD,,1,"239,00 lei",239.0
+10023,2025-03-08,Cluj-Napoca,Webcam HD,Video,3,"239,00 lei",717.0
+10024,2025-12-05,Timisoara,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+10025,2025-10-13,Bucharest,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+10026,2025-08-24,Bucharest,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+10027,2025-05-27,Bucharest,Webcam HD,Video,2,"239,00 lei",478.0
+10028,2025-10-28,Brasov,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+10029,2025-07-19,Timisoara,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+10030,2025-06-11,Bucharest,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+10031,2025-06-14,Iasi,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+10032,2025-03-24,Bucharest,Laptop Stand,Accessories,3,"149,00 lei",447.0
+10032,2025-03-24,Bucharest,Laptop Stand,Accessories,3,"149,00 lei",447.0
+10033,2025-02-03,Bucharest,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+10034,2025-07-22,Bucharest,Webcam HD,Video,2,"239,00 lei",478.0
+10035,2025-11-21,Constanta,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+10036,2025-01-24,Iasi,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+10037,2025-11-10,Timisoara,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+10038,2025-10-30,Bucharest,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+10039,2025-04-12,Bucharest ,External SSD 1TB,Storage,2,"459,00 lei",918.0
+10040,2025-08-19,Timisoara,"Monitor 27""",,2,"1.099,00 lei",2198.0
+10041,2025-03-02,Bucharest,USB-C Hub,Accessories,2,"119,00 lei",238.0
+10042,2025-10-04,Constanta,Bluetooth Speaker,Audio,4,"279,00 lei",1116.0
+10043,2025-09-13,Iasi,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+10044,2025-05-10,Cluj-Napoca,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+10045,2025-01-25,Iasi,USB-C Hub,Accessories,3,"119,00 lei",357.0
+10046,2025-12-21,Constanta,External SSD 1TB,Storage,1,"459,00 lei",459.0
+10047,2025-06-12,Cluj-Napoca,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+10048,2025-11-22,Timisoara,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+10049,2025-09-05,Constanta,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+10050,2025-10-12,Bucharest,Webcam HD,Video,3,"239,00 lei",717.0
+10051,2025-10-05,Brasov,Laptop Stand,Accessories,2,"149,00 lei",298.0
+10052,2025-03-13,Bucharest,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+10053,2025-05-13,Timisoara,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+10053,2025-05-13,Timisoara,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+10054,2025-06-20,Iasi,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+10055,2025-07-01,Timisoara,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+10056,2025-01-16,Cluj-Napoca,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+10057,2025-07-19,Timisoara,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+10058,2025-02-26,Bucharest,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+10059,2025-09-29,Bucharest,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+10060,2025-09-07,Bucharest,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+10061,2025-12-03,Timisoara,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+10062,2025-09-29,Cluj-Napoca,"Monitor 24""",Displays,1,"749,00 lei",749.0
+10063,2025-05-14,Bucharest,Laptop Stand,Accessories,4,"149,00 lei",596.0
+10064,2025-12-20,Brasov,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+10065,2025-05-30,Bucharest,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+10066,2025-04-29,Cluj-Napoca,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+10067,2025-11-27,Cluj-Napoca,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+10068,2025-05-16,Bucharest,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+10069,2025-01-28,Iasi,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+10070,2025-06-21,Cluj-Napoca,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+10071,2025-10-18,Bucharest,Laptop Stand,Accessories,1,"149,00 lei",149.0
+10072,2025-03-11,Constanta,Webcam HD,Video,4,"239,00 lei",956.0
+10073,2025-06-18,Brasov,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+10074,2025-02-17,Iasi,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+10075,2025-09-08,Brasov,Webcam HD,Video,2,"239,00 lei",478.0
+10076,2025-06-23,Brasov,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+10077,2025-05-01,Bucharest,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+10078,2025-03-24,Timisoara,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+10079,2025-07-26,Timisoara,USB-C Hub,Accessories,2,"119,00 lei",238.0
+10080,2025-09-02,Bucharest,Laptop Stand,Accessories,4,"149,00 lei",596.0
+10081,2025-12-10,Bucharest,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+10082,2025-06-09,Bucharest ,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+10083,2025-02-28,Timisoara,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+10084,2025-10-31,iasi ,Webcam HD,Video,4,"239,00 lei",956.0
+10085,2025-08-18,Iasi,Laptop Stand,Accessories,3,"149,00 lei",447.0
+10086,2025-09-13,Bucharest,Webcam HD,Video,4,"239,00 lei",956.0
+10087,2025-02-05,Bucharest,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+10087,2025-02-05,Bucharest,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+10088,2025-04-25,Cluj-Napoca,Webcam HD,Video,5,"239,00 lei",1195.0
+10089,2025-10-08,Cluj-Napoca,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+10090,2025-10-31,Constanta,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+10091,2025-06-08,Brasov,Bluetooth Speaker,Audio,4,"279,00 lei",1116.0
+10092,2025-10-21,Constanta,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+10093,2025-11-04,Brasov,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+10094,2025-05-22,Constanta,Laptop Stand,Accessories,3,"149,00 lei",447.0
+10095,2025-11-24,Cluj-Napoca,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10096,2025-04-16,BUCHAREST,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+10097,2025-03-29,Bucharest,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+10098,2025-09-07,Cluj-Napoca,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+10099,2025-08-21,Bucharest,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+10099,2025-08-21,Bucharest,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+10100,2025-02-21,Bucharest,USB-C Hub,Accessories,2,"119,00 lei",238.0
+10101,2025-10-31,Constanta,External SSD 1TB,Storage,1,"459,00 lei",459.0
+10102,2025-03-14,Bucharest ,Webcam HD,Video,5,"239,00 lei",1195.0
+10103,2025-10-21,Constanta,Laptop Stand,Accessories,1,"149,00 lei",149.0
+10104,2025-01-03,Iasi,Laptop Stand,Accessories,1,"149,00 lei",149.0
+10105,2025-10-18,Timisoara,Bluetooth Speaker,,1,"279,00 lei",279.0
+10106,2025-10-15,Timisoara,USB-C Hub,Accessories,3,"119,00 lei",357.0
+10107,2025-10-12,Bucharest,Noise-cancelling Headphones,,1,"899,00 lei",899.0
+10108,2025-08-31,Timisoara,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10109,2025-06-22,Bucharest,USB-C Hub,Accessories,3,"119,00 lei",357.0
+10110,2025-09-15,Constanta,USB-C Hub,Accessories,2,"119,00 lei",238.0
+10111,2025-04-12,Bucharest,USB-C Hub,Accessories,1,"119,00 lei",119.0
+10112,2025-10-12,Bucharest,Webcam HD,Video,3,"239,00 lei",717.0
+10113,2025-07-22,IASI,External SSD 1TB,Storage,1,"459,00 lei",459.0
+10114,2025-06-17,Timisoara,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+10115,2025-07-04,Cluj-Napoca,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+10116,2025-07-27,Timisoara,USB-C Hub,Accessories,3,"119,00 lei",357.0
+10117,2025-01-14,Bucharest,External SSD 1TB,Storage,1,"459,00 lei",459.0
+10118,2025-02-21,Timisoara,"Monitor 24""",Displays,1,"749,00 lei",749.0
+10119,2025-03-31,Bucharest,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+10120,2025-02-11,Bucharest,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+10120,2025-02-11,Bucharest,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+10121,2025-06-10,Bucharest,Noise-cancelling Headphones,,4,"899,00 lei",3596.0
+10122,2025-09-01,Bucharest,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+10123,2025-08-27,Bucharest,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+10124,2025-06-21,Cluj-Napoca,Webcam HD,Video,2,"239,00 lei",478.0
+10125,2025-11-09,Bucharest,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+10126,2025-07-26,Bucharest,USB-C Hub,Accessories,3,"119,00 lei",357.0
+10127,2025-01-29,Cluj-Napoca,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+10128,2025-10-07,Bucharest,Webcam HD,Video,1,"239,00 lei",239.0
+10129,2025-07-29,Timisoara,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+10130,2025-08-20,Constanta,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+10131,2025-07-26,Cluj-Napoca,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+10132,2025-07-22,Brasov,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+10133,2025-02-03,Bucharest,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+10134,2025-07-24,Bucharest,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+10135,2025-10-18,iasi ,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+10136,2025-04-21,Iasi,Webcam HD,Video,5,"239,00 lei",1195.0
+10137,2025-08-09,Brasov,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+10138,2025-01-12,Bucharest,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+10139,2025-05-07,Iasi,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+10140,2025-06-09,Bucharest,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+10141,2025-12-25,Bucharest,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+10142,2025-03-20,Bucharest,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+10143,2025-04-11,Constanta,External SSD 1TB,Storage,1,"459,00 lei",459.0
+10144,2025-05-30,Bucharest,Webcam HD,Video,3,"239,00 lei",717.0
+10145,2025-12-29,Brasov,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+10146,2025-11-08,Timisoara,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+10147,2025-01-13,Iasi,Laptop Stand,Accessories,3,"149,00 lei",447.0
+10148,2025-03-27,Iasi,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+10149,2025-10-27,Brasov,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+10150,2025-01-22,Bucharest,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+10151,2025-11-09,Bucharest,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+10152,2025-04-13,Timisoara,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+10153,2025-12-01,Bucharest,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+10154,2025-04-18,Bucharest ,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+10155,2025-06-08,Bucharest,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+10156,2025-08-30,Bucharest,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+10157,2025-02-16,Bucharest,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+10158,2025-07-23,Bucharest,Webcam HD,Video,2,"239,00 lei",478.0
+10158,2025-07-23,Bucharest,Webcam HD,Video,2,"239,00 lei",478.0
+10159,2025-07-04,Constanta,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+10160,2025-10-14,Bucharest,Mechanical Keyboard,,1,"329,00 lei",329.0
+10161,2025-12-30,Constanta,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+10162,2025-08-31,Constanta,USB-C Hub,Accessories,2,"119,00 lei",238.0
+10163,2025-05-30,Bucharest,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+10164,2025-05-29,Iasi,External SSD 1TB,Storage,2,"459,00 lei",918.0
+10165,2025-06-02,Timisoara,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+10166,2025-10-25,Iasi,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+10167,2025-04-28,Bucharest,Mechanical Keyboard,,3,"329,00 lei",987.0
+10168,2025-03-02,Bucharest,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+10169,2025-05-03,Bucharest,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+10170,2025-01-09,Timisoara,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+10171,2025-02-08,Constanta,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+10172,2025-02-02,Timisoara,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+10173,2025-10-09,Iasi,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+10174,2025-09-21,Constanta,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+10175,2025-09-12,Timisoara,USB-C Hub,Accessories,3,"119,00 lei",357.0
+10176,2025-06-18,Bucharest,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+10177,2025-09-19,Brasov,Laptop Stand,Accessories,2,"149,00 lei",298.0
+10178,2025-02-28,Bucharest,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+10179,2025-11-25,Bucharest,Webcam HD,Video,3,"239,00 lei",717.0
+10180,2025-07-02,Cluj-Napoca,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+10181,2025-12-09,Constanta,Webcam HD,Video,4,"239,00 lei",956.0
+10182,2025-02-25,BUCHAREST,USB-C Hub,Accessories,2,"119,00 lei",238.0
+10183,2025-07-01,Cluj-Napoca,Webcam HD,Video,1,"239,00 lei",239.0
+10184,2025-09-12,Bucharest,Webcam HD,Video,5,"239,00 lei",1195.0
+10185,2025-06-30,Bucharest,Webcam HD,Video,1,"239,00 lei",239.0
+10186,2025-06-12,Bucharest,USB-C Hub,Accessories,3,"119,00 lei",357.0
+10187,2025-03-02,Iasi,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+10188,2025-05-20,Brasov,USB-C Hub,Accessories,2,"119,00 lei",238.0
+10189,2025-03-29,Bucharest,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+10190,2025-04-21,Bucharest,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+10191,2025-09-07,Bucharest,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+10192,2025-08-19,Bucharest,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+10193,2025-08-10,Cluj-Napoca,USB-C Hub,Accessories,4,"119,00 lei",476.0
+10194,2025-05-13,Iasi,USB-C Hub,Accessories,1,"119,00 lei",119.0
+10195,2025-12-17,Timisoara,Webcam HD,Video,3,"239,00 lei",717.0
+10196,2025-02-01,Cluj-Napoca,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+10197,2025-05-06,Cluj-Napoca,USB-C Hub,Accessories,3,"119,00 lei",357.0
+10197,2025-05-06,Cluj-Napoca,USB-C Hub,Accessories,3,"119,00 lei",357.0
+10198,2025-02-13,Bucharest,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+10199,2025-05-04,Bucharest,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+10200,2025-12-18,Constanta,Laptop Stand,Accessories,2,"149,00 lei",298.0
+10201,2025-05-14,Iasi,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+10202,2025-11-28,Constanta,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+10203,2025-06-30,Constanta,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+10204,2025-09-13,Timisoara,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+10205,2025-06-16,Constanta,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+10206,2025-04-08,Cluj-Napoca,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+10207,2025-10-06,Bucharest,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10208,2025-12-20,Bucharest ,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+10209,2025-04-07,Bucharest,USB-C Hub,Accessories,2,"119,00 lei",238.0
+10210,2025-10-12,Bucharest,Laptop Stand,Accessories,4,"149,00 lei",596.0
+10211,2025-04-06,Bucharest,Webcam HD,Video,1,"239,00 lei",239.0
+10212,2025-09-19,Iasi,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+10213,2025-10-15,iasi ,Webcam HD,Video,3,"239,00 lei",717.0
+10214,2025-06-14,Timisoara,Laptop Stand,Accessories,4,"149,00 lei",596.0
+10215,2025-09-26,Bucharest,Laptop Stand,Accessories,4,"149,00 lei",596.0
+10216,2025-04-10,Iasi,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+10217,2025-01-29,Bucharest,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+10218,2025-02-05,Bucharest,External SSD 1TB,Storage,2,"459,00 lei",918.0
+10219,2025-06-13,Bucharest,USB-C Hub,Accessories,3,"119,00 lei",357.0
+10220,2025-11-26,Bucharest,Laptop Stand,Accessories,1,"149,00 lei",149.0
+10221,2025-02-16,Bucharest,External SSD 1TB,Storage,1,"459,00 lei",459.0
+10222,2025-06-16,Brasov,Laptop Stand,Accessories,3,"149,00 lei",447.0
+10223,2025-09-14,IASI,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+10224,2025-03-15,Iasi,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+10225,2025-09-21,Bucharest,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+10226,2025-04-22,Brasov,Webcam HD,Video,1,"239,00 lei",239.0
+10227,2025-10-23,Timisoara,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+10228,2025-07-31,Bucharest,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+10229,2025-07-19,Timisoara,USB-C Hub,Accessories,2,"119,00 lei",238.0
+10230,2025-03-06,Cluj-Napoca,External SSD 1TB,Storage,1,"459,00 lei",459.0
+10230,2025-03-06,Cluj-Napoca,External SSD 1TB,Storage,1,"459,00 lei",459.0
+10231,2025-06-19,Cluj-Napoca,Webcam HD,Video,1,"239,00 lei",239.0
+10232,2025-11-09,Bucharest,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+10233,2025-01-08,Cluj-Napoca,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+10234,2025-10-04,Bucharest,Laptop Stand,Accessories,2,"149,00 lei",298.0
+10235,2025-06-29,Bucharest,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+10236,2025-09-20,Bucharest,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+10237,2025-08-31,Constanta,USB-C Hub,Accessories,5,"119,00 lei",595.0
+10238,2025-06-07,Bucharest,USB-C Hub,Accessories,1,"119,00 lei",119.0
+10239,2025-04-23,Bucharest,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+10240,2025-08-17,Bucharest,Bluetooth Speaker,,2,"279,00 lei",558.0
+10241,2025-02-21,Brasov,USB-C Hub,Accessories,2,"119,00 lei",238.0
+10242,2025-08-02,Timisoara,Webcam HD,Video,2,"239,00 lei",478.0
+10243,2025-02-04,Constanta,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+10244,2025-08-26,Bucharest,Laptop Stand,Accessories,1,"149,00 lei",149.0
+10245,2025-08-18,Bucharest,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+10246,2025-01-31,Cluj-Napoca,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+10247,2025-10-04,Bucharest,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+10248,2025-06-01,Brasov,Laptop Stand,Accessories,1,"149,00 lei",149.0
+10249,2025-10-15,Brasov,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10250,2025-01-16,Cluj-Napoca,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+10251,2025-03-07,Constanta,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+10252,2025-06-30,Cluj-Napoca,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+10253,2025-03-10,Bucharest,USB-C Hub,Accessories,5,"119,00 lei",595.0
+10254,2025-05-01,Cluj-Napoca,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+10255,2025-08-30,Bucharest,USB-C Hub,Accessories,2,"119,00 lei",238.0
+10256,2025-02-22,Brasov,Webcam HD,Video,2,"239,00 lei",478.0
+10257,2025-09-05,Bucharest,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+10258,2025-02-07,Bucharest,Webcam HD,Video,1,"239,00 lei",239.0
+10259,2025-03-05,Timisoara,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+10260,2025-08-03,Bucharest,External SSD 1TB,Storage,1,"459,00 lei",459.0
+10261,2025-10-17,Bucharest,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+10262,2025-03-04,Iasi,External SSD 1TB,Storage,2,"459,00 lei",918.0
+10263,2025-04-20,Bucharest,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+10264,2025-12-04,Cluj-Napoca,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+10265,2025-12-28,Bucharest,Laptop Stand,Accessories,3,"149,00 lei",447.0
+10266,2025-08-01,Bucharest,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+10267,2025-06-13,Bucharest,Webcam HD,Video,2,"239,00 lei",478.0
+10268,2025-05-07,Iasi,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+10269,2025-08-12,Constanta,Laptop Stand,Accessories,1,"149,00 lei",149.0
+10270,2025-08-04,Bucharest,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+10271,2025-04-18,Constanta,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+10272,2025-01-09,Timisoara,Mechanical Keyboard,,3,"329,00 lei",987.0
+10273,2025-02-25,Timisoara,USB-C Hub,Accessories,5,"119,00 lei",595.0
+10274,2025-12-16,Iasi,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+10275,2025-06-02,Iasi,Laptop Stand,Accessories,1,"149,00 lei",149.0
+10276,2025-06-26,Brasov,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+10277,2025-06-20,Cluj-Napoca,USB-C Hub,Accessories,1,"119,00 lei",119.0
+10278,2025-10-13,Cluj-Napoca,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+10279,2025-01-24,Bucharest,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+10280,2025-01-31,Bucharest,Webcam HD,Video,5,"239,00 lei",1195.0
+10281,2025-04-11,Timisoara,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+10282,2025-06-27,Bucharest,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+10283,2025-09-02,Bucharest,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+10284,2025-06-29,Bucharest,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+10285,2025-06-11,Bucharest,Webcam HD,Video,1,"239,00 lei",239.0
+10286,2025-12-09,Timisoara,Bluetooth Speaker,Audio,4,"279,00 lei",1116.0
+10287,2025-02-28,Timisoara,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+10288,2025-07-28,Cluj-Napoca,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+10289,2025-07-17,Bucharest,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+10290,2025-06-22,Cluj-Napoca,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+10291,2025-10-22,Bucharest,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+10292,2025-04-08,Iasi,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+10293,2025-12-15,Timisoara,USB-C Hub,Accessories,3,"119,00 lei",357.0
+10294,2025-05-02,Cluj-Napoca,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+10295,2025-07-18,Cluj-Napoca,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+10296,2025-07-10,Constanta,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+10297,2025-11-07,Iasi,Laptop Stand,Accessories,3,"149,00 lei",447.0
+10298,2025-06-10,Cluj-Napoca,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+10298,2025-06-10,Cluj-Napoca,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+10299,2025-04-14,Cluj-Napoca,USB-C Hub,Accessories,1,"119,00 lei",119.0
+10300,2025-01-08,Bucharest,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+10301,2025-05-13,Constanta,USB-C Hub,Accessories,2,"119,00 lei",238.0
+10302,2025-10-29,Bucharest,Laptop Stand,Accessories,4,"149,00 lei",596.0
+10303,2025-01-04,Bucharest,"Monitor 24""",Displays,1,"749,00 lei",749.0
+10304,2025-11-24,Constanta,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+10305,2025-07-18,iasi ,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+10306,2025-02-21,Bucharest,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+10307,2025-04-21,Bucharest,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+10308,2025-07-22,Bucharest,Laptop Stand,Accessories,4,"149,00 lei",596.0
+10309,2025-04-26,Timisoara,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+10310,2025-02-09,Bucharest,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+10311,2025-09-01,Constanta,USB-C Hub,Accessories,3,"119,00 lei",357.0
+10312,2025-09-03,Constanta,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+10313,2025-02-13,Cluj-Napoca,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+10314,2025-04-13,Timisoara,Wireless Mouse,Accessories,1,"89,00 lei",89.0
+10315,2025-03-31,Bucharest,USB-C Hub,Accessories,4,"119,00 lei",476.0
+10316,2025-08-29,Bucharest,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+10317,2025-09-24,Iasi,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+10318,2025-09-23,Bucharest,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+10319,2025-12-09,Bucharest,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+10320,2025-10-08,Bucharest,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+10321,2025-04-28,Bucharest,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+10322,2025-02-09,Cluj-Napoca,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+10323,2025-08-13,Iasi,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+10324,2025-12-01,Brasov,Webcam HD,,2,"239,00 lei",478.0
+10325,2025-12-22,Timisoara,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+10326,2025-03-26,Brasov,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+10327,2025-03-28,Cluj-Napoca,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+10328,2025-01-14,Brasov,Laptop Stand,Accessories,3,"149,00 lei",447.0
+10329,2025-02-21,Cluj-Napoca,Wireless Mouse,Accessories,1,"89,00 lei",89.0
+10330,2025-07-22,Bucharest,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10331,2025-07-19,Constanta,Wireless Mouse,Accessories,1,"89,00 lei",89.0
+10332,2025-05-16,BUCHAREST,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+10333,2025-04-24,Bucharest,USB-C Hub,Accessories,5,"119,00 lei",595.0
+10334,2025-10-30,Bucharest,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+10335,2025-06-17,Bucharest,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+10336,2025-10-23,Bucharest,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+10337,2025-12-18,Cluj-Napoca,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+10338,2025-04-26,Brasov,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+10339,2025-03-15,Bucharest,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+10340,2025-12-14,Cluj-Napoca,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+10341,2025-08-20,Bucharest,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+10342,2025-04-17,Brasov,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+10343,2025-08-15,Bucharest,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+10344,2025-07-07,Bucharest,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+10345,2025-11-27,Cluj-Napoca,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+10346,2025-04-04,Timisoara,USB-C Hub,Accessories,3,"119,00 lei",357.0
+10347,2025-12-28,Iasi,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+10348,2025-12-08,Timisoara,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+10349,2025-03-07,Iasi,USB-C Hub,Accessories,4,"119,00 lei",476.0
+10350,2025-03-02,Cluj-Napoca,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+10351,2025-07-14,Bucharest,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+10352,2025-01-17,bucharest,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+10353,2025-04-20,Bucharest,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+10354,2025-06-08,Bucharest,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+10355,2025-12-20,Cluj-Napoca,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+10356,2025-12-29,Bucharest,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+10357,2025-02-25,Timisoara,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+10358,2025-11-22,Cluj-Napoca,USB-C Hub,Accessories,2,"119,00 lei",238.0
+10359,2025-02-03,Timisoara,Webcam HD,Video,4,"239,00 lei",956.0
+10360,2025-10-01,Timisoara,USB-C Hub,,5,"119,00 lei",595.0
+10361,2025-11-05,Bucharest,Webcam HD,Video,1,"239,00 lei",239.0
+10362,2025-11-22,Bucharest,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+10363,2025-03-23,Timisoara,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+10364,2025-11-23,Timisoara,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10365,2025-02-12,Bucharest,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+10366,2025-07-09,BUCHAREST,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+10367,2025-06-21,iasi ,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+10368,2025-04-26,Timisoara,Laptop Stand,Accessories,1,"149,00 lei",149.0
+10369,2025-01-09,Bucharest,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10370,2025-10-09,Cluj-Napoca,Laptop Stand,Accessories,3,"149,00 lei",447.0
+10371,2025-05-03,Brasov,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+10372,2025-08-30,Bucharest,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+10373,2025-05-30,Brasov,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+10374,2025-05-17,Bucharest,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+10375,2025-11-20,Cluj-Napoca,Webcam HD,Video,2,"239,00 lei",478.0
+10376,2025-02-04,Cluj-Napoca,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+10377,2025-09-26,Bucharest,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+10378,2025-09-30,Constanta,Laptop Stand,Accessories,2,"149,00 lei",298.0
+10379,2025-05-19,Cluj-Napoca,External SSD 1TB,Storage,1,"459,00 lei",459.0
+10380,2025-04-06,Constanta,Webcam HD,Video,5,"239,00 lei",1195.0
+10381,2025-01-02,Bucharest,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10382,2025-12-08,Brasov,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+10383,2025-12-12,Constanta,External SSD 1TB,Storage,2,"459,00 lei",918.0
+10383,2025-12-12,Constanta,External SSD 1TB,Storage,2,"459,00 lei",918.0
+10384,2025-03-29,Cluj-Napoca,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+10385,2025-01-12,Bucharest,Laptop Stand,Accessories,2,"149,00 lei",298.0
+10386,2025-02-14,Timisoara,Bluetooth Speaker,Audio,4,"279,00 lei",1116.0
+10387,2025-01-25,Cluj-Napoca,External SSD 1TB,Storage,2,"459,00 lei",918.0
+10388,2025-10-31,Constanta,External SSD 1TB,Storage,1,"459,00 lei",459.0
+10389,2025-11-22,Cluj-Napoca,External SSD 1TB,Storage,2,"459,00 lei",918.0
+10390,2025-02-25,Bucharest,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+10391,2025-09-30,Bucharest,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+10392,2025-03-07,IASI,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10393,2025-05-15,Constanta,Webcam HD,Video,1,"239,00 lei",239.0
+10394,2025-08-07,Bucharest,USB-C Hub,,1,"119,00 lei",119.0
+10395,2025-09-20,Iasi,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+10396,2025-11-16,Constanta,Webcam HD,Video,3,"239,00 lei",717.0
+10397,2025-01-17,Bucharest,External SSD 1TB,Storage,2,"459,00 lei",918.0
+10398,2025-03-13,Bucharest,USB-C Hub,Accessories,2,"119,00 lei",238.0
+10399,2025-04-13,Iasi,USB-C Hub,Accessories,1,"119,00 lei",119.0
+10400,2025-04-24,Timisoara,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+10401,2025-12-31,Bucharest,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+10402,2025-10-11,Brasov,"Monitor 24""",Displays,1,"749,00 lei",749.0
+10403,2025-04-27,Cluj-Napoca,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+10404,2025-12-21,Brasov,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+10405,2025-07-02,Brasov,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+10406,2025-07-02,Brasov,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+10407,2025-06-08,Cluj-Napoca,Mechanical Keyboard,,2,"329,00 lei",658.0
+10407,2025-06-08,Cluj-Napoca,Mechanical Keyboard,,2,"329,00 lei",658.0
+10408,2025-02-22,BUCHAREST,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+10409,2025-12-08,Cluj-Napoca,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+10410,2025-01-06,Bucharest,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+10411,2025-03-05,Timisoara,"Monitor 24""",Displays,1,"749,00 lei",749.0
+10411,2025-03-05,Timisoara,"Monitor 24""",Displays,1,"749,00 lei",749.0
+10412,2025-03-25,Bucharest,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+10413,2025-04-12,Cluj-Napoca,External SSD 1TB,Storage,2,"459,00 lei",918.0
+10414,2025-02-18,Bucharest,Webcam HD,Video,4,"239,00 lei",956.0
+10415,2025-01-07,Bucharest,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+10416,2025-09-05,Bucharest,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+10417,2025-12-20,Timisoara,Webcam HD,Video,3,"239,00 lei",717.0
+10418,2025-02-14,Iasi,USB-C Hub,Accessories,1,"119,00 lei",119.0
+10419,2025-04-19,Bucharest,USB-C Hub,Accessories,4,"119,00 lei",476.0
+10420,2025-07-04,Brasov,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+10421,2025-12-05,Brasov,USB-C Hub,Accessories,4,"119,00 lei",476.0
+10422,2025-09-11,Bucharest,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+10423,2025-10-07,Timisoara,Laptop Stand,Accessories,4,"149,00 lei",596.0
+10424,2025-08-01,Cluj-Napoca,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+10425,2025-06-02,Bucharest,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+10426,2025-03-14,Cluj-Napoca,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+10427,2025-11-12,Bucharest,Laptop Stand,Accessories,2,"149,00 lei",298.0
+10428,2025-10-21,Brasov,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+10429,2025-01-10,Constanta,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+10430,2025-09-19,Brasov,USB-C Hub,Accessories,5,"119,00 lei",595.0
+10431,2025-01-31,Timisoara,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10432,2025-09-27,Cluj-Napoca,"Monitor 24""",Displays,1,"749,00 lei",749.0
+10433,2025-10-29,Constanta,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10434,2025-02-17,Bucharest,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+10435,2025-06-08,Bucharest,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+10436,2025-02-15,Timisoara,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+10437,2025-07-27,Bucharest,Webcam HD,Video,4,"239,00 lei",956.0
+10438,2025-12-05,Bucharest,Webcam HD,Video,5,"239,00 lei",1195.0
+10439,2025-01-30,Bucharest,Bluetooth Speaker,,2,"279,00 lei",558.0
+10440,2025-05-26,Timisoara,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+10441,2025-12-22,Bucharest,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+10442,2025-04-20,Bucharest,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+10443,2025-02-18,Bucharest,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+10444,2025-06-28,Bucharest,USB-C Hub,Accessories,3,"119,00 lei",357.0
+10445,2025-07-05,Brasov,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+10446,2025-08-30,Bucharest,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+10447,2025-04-25,Timisoara,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+10448,2025-12-15,Iasi,Webcam HD,Video,1,"239,00 lei",239.0
+10449,2025-07-10,Bucharest,Noise-cancelling Headphones,,3,"899,00 lei",2697.0
+10449,2025-07-10,Bucharest,Noise-cancelling Headphones,,3,"899,00 lei",2697.0
+10450,2025-04-15,Brasov,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10451,2025-12-17,Iasi,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+10452,2025-12-04,Cluj-Napoca,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+10453,2025-07-02,Bucharest,Wireless Mouse,,3,"89,00 lei",267.0
+10454,2025-01-10,Bucharest,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+10455,2025-08-06,Constanta,Bluetooth Speaker,Audio,4,"279,00 lei",1116.0
+10456,2025-07-22,Iasi,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+10457,2025-02-24,Constanta,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+10458,2025-08-20,Brasov,External SSD 1TB,Storage,1,"459,00 lei",459.0
+10458,2025-08-20,Brasov,External SSD 1TB,Storage,1,"459,00 lei",459.0
+10459,2025-11-03,Bucharest,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+10460,2025-02-08,Iasi,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+10461,2025-09-22,Cluj-Napoca,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+10462,2025-02-21,Iasi,USB-C Hub,Accessories,2,"119,00 lei",238.0
+10463,2025-10-01,Bucharest,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+10464,2025-06-02,Bucharest,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+10465,2025-01-03,Iasi,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+10466,2025-12-19,Iasi,Laptop Stand,Accessories,1,"149,00 lei",149.0
+10467,2025-03-02,Timisoara,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+10468,2025-08-06,Bucharest,Webcam HD,Video,5,"239,00 lei",1195.0
+10469,2025-03-08,Bucharest,Wireless Mouse,,5,"89,00 lei",445.0
+10470,2025-12-07,Constanta,USB-C Hub,Accessories,4,"119,00 lei",476.0
+10471,2025-09-27,Cluj-Napoca,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+10472,2025-10-21,Cluj-Napoca,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+10473,2025-06-07,Cluj-Napoca,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+10474,2025-06-20,Cluj-Napoca,USB-C Hub,Accessories,1,"119,00 lei",119.0
+10475,2025-08-20,Cluj-Napoca,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10476,2025-10-14,Cluj-Napoca,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+10477,2025-11-06,Brasov,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+10478,2025-01-07,Brasov,Laptop Stand,Accessories,2,"149,00 lei",298.0
+10479,2025-08-31,Constanta,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+10480,2025-02-09,Timisoara,Laptop Stand,Accessories,3,"149,00 lei",447.0
+10481,2025-04-16,Cluj-Napoca,Webcam HD,,3,"239,00 lei",717.0
+10482,2025-10-30,Iasi,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+10483,2025-04-02,Brasov,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10484,2025-10-18,Timisoara,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+10485,2025-06-18,Iasi,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+10486,2025-03-26,Iasi,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+10487,2025-05-02,Timisoara,USB-C Hub,Accessories,3,"119,00 lei",357.0
+10488,2025-07-13,Iasi,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+10489,2025-10-07,Bucharest,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+10490,2025-08-10,Cluj-Napoca,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+10491,2025-12-07,Timisoara,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+10492,2025-11-13,Bucharest,USB-C Hub,Accessories,1,"119,00 lei",119.0
+10493,2025-10-02,Brasov,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+10494,2025-08-09,Timisoara,Webcam HD,Video,2,"239,00 lei",478.0
+10494,2025-08-09,Timisoara,Webcam HD,Video,2,"239,00 lei",478.0
+10495,2025-04-16,Bucharest,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+10495,2025-04-16,Bucharest,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+10496,2025-05-31,Brasov,USB-C Hub,Accessories,4,"119,00 lei",476.0
+10497,2025-02-13,Iasi,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+10498,2025-05-17,Iasi,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+10499,2025-12-05,Cluj-Napoca,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+10500,2025-06-05,Brasov,External SSD 1TB,Storage,2,"459,00 lei",918.0
+10501,2025-02-11,Cluj-Napoca,Webcam HD,Video,4,"239,00 lei",956.0
+10502,2025-08-26,Timisoara,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+10503,2025-12-18,Bucharest,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+10504,2025-11-13,Timisoara,Laptop Stand,Accessories,4,"149,00 lei",596.0
+10505,2025-04-11,Iasi,Wireless Mouse,Accessories,1,"89,00 lei",89.0
+10506,2025-06-15,Timisoara,Laptop Stand,Accessories,2,"149,00 lei",298.0
+10507,2025-07-13,Cluj-Napoca,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+10508,2025-04-01,Brasov,Webcam HD,Video,3,"239,00 lei",717.0
+10509,2025-04-09,Timisoara,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+10510,2025-03-28,Bucharest,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10511,2025-12-30,Constanta,Laptop Stand,Accessories,2,"149,00 lei",298.0
+10512,2025-09-30,Iasi,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+10513,2025-11-03,Constanta,External SSD 1TB,Storage,1,"459,00 lei",459.0
+10514,2025-10-26,Constanta,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+10515,2025-12-17,Constanta,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10516,2025-02-08,Iasi,Bluetooth Speaker,Audio,4,"279,00 lei",1116.0
+10517,2025-11-18,Timisoara,Webcam HD,Video,2,"239,00 lei",478.0
+10518,2025-01-25,Bucharest,"Monitor 24""",Displays,1,"749,00 lei",749.0
+10519,2025-06-23,Cluj-Napoca,Laptop Stand,Accessories,4,"149,00 lei",596.0
+10520,2025-08-05,Iasi,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+10521,2025-05-11,Cluj-Napoca,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+10522,2025-02-23,Brasov,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+10523,2025-03-12,Bucharest,USB-C Hub,Accessories,3,"119,00 lei",357.0
+10524,2025-10-29,Cluj-Napoca,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+10525,2025-04-27,Cluj-Napoca,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+10526,2025-04-24,Cluj-Napoca,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+10527,2025-12-04,Bucharest,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+10528,2025-02-22,Bucharest,External SSD 1TB,Storage,1,"459,00 lei",459.0
+10529,2025-12-01,Brasov,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+10530,2025-12-03,Cluj-Napoca,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+10531,2025-08-07,Bucharest,External SSD 1TB,Storage,1,"459,00 lei",459.0
+10532,2025-03-02,Bucharest,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+10533,2025-02-26,Cluj-Napoca,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+10534,2025-04-14,Bucharest,Laptop Stand,Accessories,4,"149,00 lei",596.0
+10535,2025-07-30,Iasi,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+10536,2025-02-26,Iasi,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+10537,2025-06-16,Bucharest,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+10538,2025-02-12,Timisoara,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+10539,2025-07-17,Bucharest,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+10540,2025-01-08,Bucharest,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+10541,2025-09-16,Brasov,USB-C Hub,Accessories,3,"119,00 lei",357.0
+10542,2025-01-21,Cluj-Napoca,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+10543,2025-03-13,Brasov,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+10544,2025-03-05,Bucharest,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+10545,2025-10-31,Bucharest,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+10546,2025-01-20,Cluj-Napoca,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+10547,2025-06-06,Cluj-Napoca,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+10548,2025-08-04,Constanta,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+10549,2025-07-08,Bucharest,"Monitor 27""",,3,"1.099,00 lei",3297.0
+10550,2025-09-06,Brasov,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10551,2025-10-21,Brasov,Webcam HD,Video,1,"239,00 lei",239.0
+10552,2025-05-24,Cluj-Napoca,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+10553,2025-10-30,Bucharest,USB-C Hub,Accessories,1,"119,00 lei",119.0
+10554,2025-04-27,Cluj-Napoca,Laptop Stand,Accessories,3,"149,00 lei",447.0
+10555,2025-12-26,Bucharest,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+10556,2025-07-04,Iasi,Laptop Stand,Accessories,2,"149,00 lei",298.0
+10557,2025-09-26,Cluj-Napoca,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+10558,2025-11-16,Constanta,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+10559,2025-10-17,Timisoara,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+10560,2025-11-07,Cluj-Napoca,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+10560,2025-11-07,Cluj-Napoca,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+10561,2025-07-15,Iasi,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+10562,2025-01-16,Cluj-Napoca,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+10563,2025-06-29,Brasov,Webcam HD,Video,1,"239,00 lei",239.0
+10564,2025-03-08,Bucharest,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+10565,2025-11-21,Constanta,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+10566,2025-03-28,Brasov,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+10567,2025-03-25,Brasov,Bluetooth Speaker,Audio,4,"279,00 lei",1116.0
+10568,2025-04-02,Cluj-Napoca,Webcam HD,Video,4,"239,00 lei",956.0
+10569,2025-08-23,Brasov,Mechanical Keyboard,,2,"329,00 lei",658.0
+10570,2025-07-28,Bucharest,External SSD 1TB,Storage,2,"459,00 lei",918.0
+10570,2025-07-28,Bucharest,External SSD 1TB,Storage,2,"459,00 lei",918.0
+10571,2025-12-13,Iasi,Bluetooth Speaker,Audio,4,"279,00 lei",1116.0
+10572,2025-06-01,Bucharest,External SSD 1TB,Storage,1,"459,00 lei",459.0
+10573,2025-04-14,Bucharest,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+10574,2025-01-18,Cluj-Napoca,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+10575,2025-01-03,Bucharest,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+10576,2025-05-17,Cluj-Napoca,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+10577,2025-12-04,Brasov,USB-C Hub,Accessories,1,"119,00 lei",119.0
+10578,2025-07-11,Bucharest,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+10579,2025-11-23,Iasi,External SSD 1TB,Storage,2,"459,00 lei",918.0
+10580,2025-02-07,Bucharest,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+10581,2025-02-04,Iasi,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+10582,2025-11-01,iasi ,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+10583,2025-02-08,Cluj-Napoca,USB-C Hub,Accessories,1,"119,00 lei",119.0
+10584,2025-01-19,Iasi,Webcam HD,Video,4,"239,00 lei",956.0
+10585,2025-05-28,Constanta,Mechanical Keyboard,,3,"329,00 lei",987.0
+10586,2025-12-04,Brasov,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+10587,2025-09-09,Cluj-Napoca,Mechanical Keyboard,,2,"329,00 lei",658.0
+10588,2025-02-06,Cluj-Napoca,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+10589,2025-11-02,Iasi,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+10590,2025-11-04,Bucharest,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+10590,2025-11-04,Bucharest,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+10591,2025-10-20,Brasov,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+10592,2025-11-26,Bucharest,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+10593,2025-03-29,Brasov,"Monitor 24""",Displays,1,"749,00 lei",749.0
+10594,2025-12-24,Bucharest,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+10595,2025-04-28,Bucharest,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+10596,2025-10-20,Constanta,Laptop Stand,Accessories,1,"149,00 lei",149.0
+10597,2025-07-31,Brasov,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+10598,2025-10-12,Brasov,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+10599,2025-08-18,Constanta,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+10600,2025-08-23,Cluj-Napoca,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+10601,2025-08-13,Bucharest,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+10602,2025-10-12,Bucharest,USB-C Hub,Accessories,5,"119,00 lei",595.0
+10603,2025-09-27,Cluj-Napoca,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+10604,2025-02-19,Bucharest,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+10605,2025-10-29,Constanta,Noise-cancelling Headphones,,2,"899,00 lei",1798.0
+10606,2025-07-15,Bucharest,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+10607,2025-04-28,Bucharest,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+10608,2025-07-07,Bucharest,USB-C Hub,Accessories,3,"119,00 lei",357.0
+10609,2025-12-19,Bucharest,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+10610,2025-11-10,Bucharest,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+10611,2025-11-01,Timisoara,External SSD 1TB,Storage,1,"459,00 lei",459.0
+10612,2025-06-18,Bucharest,External SSD 1TB,Storage,2,"459,00 lei",918.0
+10613,2025-10-14,Timisoara,Laptop Stand,Accessories,4,"149,00 lei",596.0
+10614,2025-05-21,Brasov,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+10615,2025-09-08,Timisoara,Laptop Stand,Accessories,3,"149,00 lei",447.0
+10616,2025-08-22,Iasi,Webcam HD,Video,3,"239,00 lei",717.0
+10617,2025-04-02,Bucharest,External SSD 1TB,Storage,2,"459,00 lei",918.0
+10618,2025-04-08,Bucharest,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+10619,2025-01-23,Bucharest,Webcam HD,Video,4,"239,00 lei",956.0
+10620,2025-02-21,Constanta,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+10621,2025-06-08,Timisoara,Bluetooth Speaker,Audio,4,"279,00 lei",1116.0
+10622,2025-06-24,Bucharest,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+10623,2025-03-02,Cluj-Napoca,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10624,2025-06-02,Brasov,External SSD 1TB,Storage,1,"459,00 lei",459.0
+10625,2025-08-09,Timisoara,External SSD 1TB,,2,"459,00 lei",918.0
+10626,2025-03-26,Timisoara,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+10627,2025-05-04,Brasov,External SSD 1TB,Storage,1,"459,00 lei",459.0
+10628,2025-05-15,Timisoara,Wireless Mouse,Accessories,1,"89,00 lei",89.0
+10629,2025-07-04,Timisoara,Webcam HD,Video,4,"239,00 lei",956.0
+10630,2025-05-14,Bucharest,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+10631,2025-09-26,Bucharest,External SSD 1TB,Storage,1,"459,00 lei",459.0
+10632,2025-04-30,Constanta,Webcam HD,Video,2,"239,00 lei",478.0
+10633,2025-06-08,Timisoara,External SSD 1TB,Storage,2,"459,00 lei",918.0
+10634,2025-05-19,Cluj-Napoca,"Monitor 24""",Displays,1,"749,00 lei",749.0
+10635,2025-03-08,Timisoara,Wireless Mouse,Accessories,1,"89,00 lei",89.0
+10636,2025-09-08,Bucharest,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+10637,2025-03-27,Brasov,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+10638,2025-04-19,Bucharest,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+10639,2025-10-17,Brasov,Laptop Stand,Accessories,4,"149,00 lei",596.0
+10640,2025-12-13,Cluj-Napoca,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+10641,2025-09-02,Bucharest,USB-C Hub,Accessories,5,"119,00 lei",595.0
+10642,2025-12-01,Bucharest,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+10643,2025-11-08,Brasov,USB-C Hub,Accessories,5,"119,00 lei",595.0
+10644,2025-06-25,Bucharest,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+10645,2025-10-09,Bucharest,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+10646,2025-04-30,Iasi,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+10647,2025-06-18,Bucharest,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+10648,2025-07-15,Cluj-Napoca,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+10649,2025-12-17,Bucharest,External SSD 1TB,Storage,2,"459,00 lei",918.0
+10650,2025-11-06,Brasov,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+10651,2025-06-28,Bucharest,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+10652,2025-08-27,Bucharest,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+10653,2025-03-15,Bucharest,External SSD 1TB,Storage,2,"459,00 lei",918.0
+10654,2025-10-21,Bucharest,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+10655,2025-07-21,Bucharest,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+10656,2025-07-14,Bucharest,"Monitor 24""",Displays,1,"749,00 lei",749.0
+10657,2025-10-07,Bucharest,Wireless Mouse,Accessories,1,"89,00 lei",89.0
+10658,2025-08-20,Cluj-Napoca,USB-C Hub,Accessories,3,"119,00 lei",357.0
+10659,2025-01-27,Brasov,Webcam HD,Video,3,"239,00 lei",717.0
+10660,2025-04-16,Bucharest,Laptop Stand,Accessories,3,"149,00 lei",447.0
+10661,2025-03-06,Bucharest,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+10662,2025-09-26,Brasov,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+10663,2025-01-13,Brasov,Laptop Stand,Accessories,1,"149,00 lei",149.0
+10664,2025-03-15,Timisoara,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+10665,2025-08-07,Bucharest,USB-C Hub,Accessories,2,"119,00 lei",238.0
+10666,2025-09-11,Cluj-Napoca,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+10667,2025-07-03,Bucharest,USB-C Hub,Accessories,2,"119,00 lei",238.0
+10668,2025-11-11,Bucharest,External SSD 1TB,Storage,1,"459,00 lei",459.0
+10669,2025-12-02,Bucharest,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+10670,2025-02-18,Timisoara,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+10671,2025-12-14,Bucharest,Noise-cancelling Headphones,,1,"899,00 lei",899.0
+10672,2025-08-13,Timisoara,Bluetooth Speaker,Audio,4,"279,00 lei",1116.0
+10673,2025-08-21,Bucharest,Bluetooth Speaker,,2,"279,00 lei",558.0
+10674,2025-02-04,Bucharest,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10675,2025-08-15,Iasi,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+10676,2025-09-22,Brasov,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+10677,2025-07-31,Bucharest,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+10678,2025-01-31,Timisoara,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+10679,2025-07-10,Bucharest,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+10680,2025-12-08,Bucharest,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+10681,2025-09-22,Iasi,Laptop Stand,Accessories,2,"149,00 lei",298.0
+10682,2025-02-20,Bucharest,Laptop Stand,Accessories,1,"149,00 lei",149.0
+10683,2025-12-17,Cluj-Napoca,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+10684,2025-12-16,Cluj-Napoca,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+10685,2025-03-03,Bucharest,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+10686,2025-10-20,Bucharest,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+10687,2025-05-29,bucharest,USB-C Hub,Accessories,5,"119,00 lei",595.0
+10688,2025-08-05,Constanta,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+10689,2025-06-12,Timisoara,Webcam HD,Video,1,"239,00 lei",239.0
+10690,2025-10-13,Cluj-Napoca,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+10691,2025-12-30,Bucharest,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+10692,2025-10-18,Timisoara,Webcam HD,Video,1,"239,00 lei",239.0
+10693,2025-12-06,Bucharest,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+10694,2025-12-12,Cluj-Napoca,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+10695,2025-02-02,Iasi,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+10696,2025-04-03,Cluj-Napoca,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+10697,2025-09-21,Bucharest,Laptop Stand,,1,"149,00 lei",149.0
+10698,2025-08-04,Bucharest,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+10699,2025-01-19,Bucharest,Laptop Stand,Accessories,2,"149,00 lei",298.0
+10700,2025-02-04,Cluj-Napoca,Laptop Stand,Accessories,1,"149,00 lei",149.0
+10701,2025-07-09,Brasov,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+10702,2025-08-13,Bucharest,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+10703,2025-03-03,Timisoara,USB-C Hub,Accessories,3,"119,00 lei",357.0
+10704,2025-03-04,Timisoara,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+10705,2025-02-17,Bucharest,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+10706,2025-07-26,Bucharest,USB-C Hub,Accessories,2,"119,00 lei",238.0
+10707,2025-01-03,Bucharest,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+10708,2025-07-28,Timisoara,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+10709,2025-06-23,Cluj-Napoca,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+10710,2025-06-20,Iasi,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+10711,2025-09-05,Brasov,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+10712,2025-07-10,IASI,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+10713,2025-09-23,Constanta,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+10714,2025-10-06,iasi ,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+10715,2025-12-02,Brasov,"Monitor 24""",Displays,1,"749,00 lei",749.0
+10716,2025-10-19,Brasov,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+10717,2025-07-08,Iasi,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+10718,2025-06-29,Brasov,Webcam HD,Video,5,"239,00 lei",1195.0
+10719,2025-03-28,Constanta,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+10720,2025-08-07,Cluj-Napoca,Laptop Stand,Accessories,1,"149,00 lei",149.0
+10721,2025-02-20,Timisoara,Webcam HD,Video,3,"239,00 lei",717.0
+10722,2025-12-06,Cluj-Napoca,Webcam HD,Video,5,"239,00 lei",1195.0
+10723,2025-11-05,Brasov,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10724,2025-02-13,Cluj-Napoca,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+10725,2025-10-14,Brasov,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+10726,2025-02-12,Iasi,Webcam HD,Video,3,"239,00 lei",717.0
+10727,2025-09-21,Constanta,Laptop Stand,Accessories,1,"149,00 lei",149.0
+10728,2025-02-02,Bucharest,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+10729,2025-06-28,Iasi,"Monitor 24""",Displays,1,"749,00 lei",749.0
+10730,2025-08-29,Iasi,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+10731,2025-09-24,Constanta,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+10732,2025-06-02,Brasov,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+10733,2025-12-03,Timisoara,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+10734,2025-10-10,Timisoara,USB-C Hub,Accessories,2,"119,00 lei",238.0
+10735,2025-03-18,Bucharest,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+10736,2025-09-02,Constanta,Laptop Stand,Accessories,3,"149,00 lei",447.0
+10737,2025-09-24,Bucharest,"Monitor 24""",Displays,1,"749,00 lei",749.0
+10738,2025-05-02,Iasi,Laptop Stand,Accessories,2,"149,00 lei",298.0
+10739,2025-09-27,Iasi,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+10740,2025-11-24,Cluj-Napoca,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+10741,2025-10-26,Bucharest,Laptop Stand,Accessories,2,"149,00 lei",298.0
+10742,2025-10-06,Bucharest,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+10743,2025-08-20,Brasov,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+10744,2025-04-09,Cluj-Napoca,External SSD 1TB,Storage,2,"459,00 lei",918.0
+10745,2025-10-18,Bucharest,Laptop Stand,Accessories,4,"149,00 lei",596.0
+10746,2025-05-13,Iasi,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+10747,2025-07-14,Bucharest,USB-C Hub,Accessories,4,"119,00 lei",476.0
+10748,2025-04-25,Brasov,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+10749,2025-04-25,Bucharest,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+10750,2025-02-27,Bucharest,External SSD 1TB,Storage,2,"459,00 lei",918.0
+10751,2025-12-17,Bucharest,USB-C Hub,Accessories,1,"119,00 lei",119.0
+10752,2025-02-23,Cluj-Napoca,Wireless Mouse,Accessories,1,"89,00 lei",89.0
+10753,2025-02-01,Cluj-Napoca,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+10754,2025-12-08,Iasi,Webcam HD,Video,5,"239,00 lei",1195.0
+10755,2025-07-22,Cluj-Napoca,External SSD 1TB,Storage,2,"459,00 lei",918.0
+10756,2025-06-09,Bucharest,Bluetooth Speaker,Audio,4,"279,00 lei",1116.0
+10757,2025-09-27,Bucharest,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+10758,2025-05-20,Bucharest,Webcam HD,Video,1,"239,00 lei",239.0
+10759,2025-02-16,Constanta,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+10760,2025-09-24,Bucharest,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+10761,2025-03-06,Constanta,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10762,2025-07-21,Bucharest,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+10763,2025-12-13,Bucharest,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+10764,2025-12-08,Bucharest,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+10765,2025-05-12,Bucharest,USB-C Hub,Accessories,3,"119,00 lei",357.0
+10766,2025-10-12,Iasi,"Monitor 24""",Displays,1,"749,00 lei",749.0
+10767,2025-08-12,Cluj-Napoca,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+10768,2025-06-24,Bucharest,External SSD 1TB,Storage,1,"459,00 lei",459.0
+10769,2025-02-21,Timisoara,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+10770,2025-05-18,Timisoara,External SSD 1TB,Storage,1,"459,00 lei",459.0
+10771,2025-08-26,Constanta,Webcam HD,Video,2,"239,00 lei",478.0
+10772,2025-12-27,Constanta,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+10773,2025-01-02,Timisoara,USB-C Hub,Accessories,1,"119,00 lei",119.0
+10774,2025-09-19,Brasov,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+10775,2025-11-05,Iasi,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+10776,2025-12-14,Cluj-Napoca,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+10777,2025-06-04,Iasi,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+10778,2025-02-13,Bucharest,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+10779,2025-04-09,Iasi,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+10780,2025-11-07,Constanta,Wireless Mouse,Accessories,1,"89,00 lei",89.0
+10781,2025-11-17,bucharest,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+10782,2025-08-21,Brasov,External SSD 1TB,,3,"459,00 lei",1377.0
+10783,2025-02-14,Constanta,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+10784,2025-02-14,Bucharest,Bluetooth Speaker,Audio,4,"279,00 lei",1116.0
+10785,2025-06-24,Cluj-Napoca,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+10786,2025-08-03,Constanta,Laptop Stand,Accessories,2,"149,00 lei",298.0
+10787,2025-01-12,Constanta,USB-C Hub,Accessories,3,"119,00 lei",357.0
+10788,2025-09-08,Bucharest,Wireless Mouse,Accessories,1,"89,00 lei",89.0
+10789,2025-07-18,Bucharest,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+10790,2025-01-05,Iasi,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+10791,2025-02-04,Bucharest,External SSD 1TB,Storage,1,"459,00 lei",459.0
+10792,2025-06-15,Bucharest,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10793,2025-09-21,Bucharest,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+10794,2025-10-29,Bucharest,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+10795,2025-06-07,Timisoara,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+10796,2025-04-18,Timisoara,External SSD 1TB,Storage,1,"459,00 lei",459.0
+10797,2025-12-20,Timisoara,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+10798,2025-06-17,Iasi,"Monitor 24""",Displays,1,"749,00 lei",749.0
+10799,2025-04-26,Cluj-Napoca,Noise-cancelling Headphones,,2,"899,00 lei",1798.0
+10800,2025-06-11,Bucharest,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+10801,2025-01-05,Bucharest,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+10802,2025-04-21,Bucharest,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+10803,2025-07-08,Bucharest,External SSD 1TB,Storage,2,"459,00 lei",918.0
+10804,2025-12-02,Bucharest,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+10805,2025-09-27,Bucharest,Laptop Stand,Accessories,4,"149,00 lei",596.0
+10805,2025-09-27,Bucharest,Laptop Stand,Accessories,4,"149,00 lei",596.0
+10806,2025-10-13,Bucharest,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+10807,2025-07-18,Timisoara,USB-C Hub,Accessories,3,"119,00 lei",357.0
+10808,2025-02-10,Timisoara,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+10809,2025-05-23,Constanta,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+10810,2025-12-30,Iasi,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10811,2025-01-17,Timisoara,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+10812,2025-11-17,Bucharest,USB-C Hub,Accessories,2,"119,00 lei",238.0
+10813,2025-09-07,Timisoara,Laptop Stand,Accessories,3,"149,00 lei",447.0
+10814,2025-04-14,Bucharest,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+10815,2025-10-11,Cluj-Napoca,Laptop Stand,Accessories,4,"149,00 lei",596.0
+10816,2025-11-02,Cluj-Napoca,Wireless Mouse,,2,"89,00 lei",178.0
+10817,2025-01-16,Cluj-Napoca,Webcam HD,Video,5,"239,00 lei",1195.0
+10818,2025-02-08,Bucharest,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+10819,2025-08-31,Timisoara,Laptop Stand,Accessories,3,"149,00 lei",447.0
+10820,2025-12-31,Brasov,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+10821,2025-01-09,Iasi,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+10822,2025-08-31,Timisoara,Bluetooth Speaker,Audio,4,"279,00 lei",1116.0
+10823,2025-02-19,Cluj-Napoca,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10824,2025-08-26,Bucharest,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+10825,2025-08-16,Iasi,Webcam HD,Video,3,"239,00 lei",717.0
+10826,2025-02-03,Cluj-Napoca,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+10827,2025-09-06,Bucharest,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+10828,2025-11-24,Bucharest,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+10829,2025-11-12,Constanta,Webcam HD,Video,5,"239,00 lei",1195.0
+10830,2025-01-11,Timisoara,Laptop Stand,Accessories,3,"149,00 lei",447.0
+10831,2025-03-31,Cluj-Napoca,External SSD 1TB,Storage,2,"459,00 lei",918.0
+10832,2025-03-29,Timisoara,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+10833,2025-06-15,Cluj-Napoca,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+10834,2025-02-22,Cluj-Napoca,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+10835,2025-11-08,Bucharest,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+10836,2025-10-11,Cluj-Napoca,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+10837,2025-10-23,Timisoara,External SSD 1TB,Storage,1,"459,00 lei",459.0
+10838,2025-03-14,Bucharest,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+10839,2025-01-06,IASI,USB-C Hub,Accessories,5,"119,00 lei",595.0
+10840,2025-11-29,BUCHAREST,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+10841,2025-04-16,Timisoara,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+10842,2025-08-28,Timisoara,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+10843,2025-11-28,Timisoara,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+10844,2025-01-14,Timisoara,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+10845,2025-01-02,Constanta,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+10846,2025-01-02,Cluj-Napoca,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+10847,2025-02-27,Iasi,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+10848,2025-01-19,Iasi,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+10849,2025-10-27,Bucharest,USB-C Hub,Accessories,1,"119,00 lei",119.0
+10850,2025-08-10,Bucharest,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+10851,2025-12-24,Cluj-Napoca,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10852,2025-10-20,Bucharest,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+10853,2025-12-18,Bucharest,Laptop Stand,Accessories,1,"149,00 lei",149.0
+10854,2025-03-29,Cluj-Napoca,Wireless Mouse,Accessories,1,"89,00 lei",89.0
+10855,2025-04-16,Timisoara,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+10856,2025-11-07,Bucharest,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+10857,2025-03-31,Brasov,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+10858,2025-01-21,Cluj-Napoca,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+10859,2025-09-02,Iasi,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+10860,2025-10-20,Bucharest,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+10861,2025-12-20,Cluj-Napoca,Laptop Stand,Accessories,1,"149,00 lei",149.0
+10862,2025-12-05,Bucharest,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+10863,2025-02-13,Timisoara,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+10864,2025-10-09,Bucharest,Webcam HD,Video,4,"239,00 lei",956.0
+10865,2025-11-05,Constanta,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+10866,2025-09-12,Bucharest,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+10867,2025-10-27,Timisoara,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+10868,2025-11-02,Bucharest,Laptop Stand,Accessories,2,"149,00 lei",298.0
+10869,2025-06-12,Timisoara,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+10870,2025-01-15,Cluj-Napoca,USB-C Hub,Accessories,4,"119,00 lei",476.0
+10871,2025-06-16,Bucharest,USB-C Hub,Accessories,1,"119,00 lei",119.0
+10872,2025-03-15,Bucharest,External SSD 1TB,,5,"459,00 lei",2295.0
+10873,2025-02-11,Bucharest,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+10874,2025-02-15,Bucharest,USB-C Hub,Accessories,3,"119,00 lei",357.0
+10875,2025-09-12,Constanta,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+10876,2025-07-04,Cluj-Napoca,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+10877,2025-07-17,Bucharest,Webcam HD,Video,3,"239,00 lei",717.0
+10878,2025-09-29,Constanta,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+10879,2025-07-20,Bucharest,Bluetooth Speaker,Audio,4,"279,00 lei",1116.0
+10880,2025-08-18,Cluj-Napoca,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+10881,2025-02-01,Iasi,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+10882,2025-11-07,Constanta,USB-C Hub,Accessories,5,"119,00 lei",595.0
+10883,2025-06-13,Iasi,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+10884,2025-02-26,Cluj-Napoca,Wireless Mouse,Accessories,1,"89,00 lei",89.0
+10885,2025-10-24,Constanta,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+10886,2025-09-26,Bucharest,Laptop Stand,Accessories,2,"149,00 lei",298.0
+10887,2025-01-20,Constanta,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+10888,2025-03-12,Brasov,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+10889,2025-01-06,Constanta,Laptop Stand,Accessories,2,"149,00 lei",298.0
+10890,2025-04-09,Bucharest ,Laptop Stand,Accessories,3,"149,00 lei",447.0
+10891,2025-02-06,Bucharest,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10892,2025-09-17,Timisoara,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+10893,2025-07-10,Cluj-Napoca,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+10894,2025-12-24,Cluj-Napoca,External SSD 1TB,Storage,1,"459,00 lei",459.0
+10895,2025-10-01,Constanta,USB-C Hub,Accessories,3,"119,00 lei",357.0
+10896,2025-08-12,Timisoara,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+10897,2025-07-05,Bucharest,Webcam HD,Video,5,"239,00 lei",1195.0
+10898,2025-01-20,Cluj-Napoca,Webcam HD,Video,3,"239,00 lei",717.0
+10899,2025-01-26,Bucharest,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+10900,2025-08-13,Bucharest,USB-C Hub,Accessories,3,"119,00 lei",357.0
+10901,2025-01-02,Bucharest,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+10902,2025-01-16,Brasov,Bluetooth Speaker,,4,"279,00 lei",1116.0
+10903,2025-03-21,Iasi,Bluetooth Speaker,Audio,4,"279,00 lei",1116.0
+10903,2025-03-21,Iasi,Bluetooth Speaker,Audio,4,"279,00 lei",1116.0
+10904,2025-11-19,Cluj-Napoca,Webcam HD,Video,4,"239,00 lei",956.0
+10905,2025-06-17,Bucharest,Webcam HD,Video,1,"239,00 lei",239.0
+10906,2025-09-16,Timisoara,Bluetooth Speaker,Audio,4,"279,00 lei",1116.0
+10907,2025-05-31,Brasov,Webcam HD,Video,2,"239,00 lei",478.0
+10907,2025-05-31,Brasov,Webcam HD,Video,2,"239,00 lei",478.0
+10908,2025-03-05,Brasov,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+10909,2025-05-16,Cluj-Napoca,Laptop Stand,Accessories,4,"149,00 lei",596.0
+10910,2025-02-03,Brasov,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+10911,2025-10-09,Cluj-Napoca,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10912,2025-03-08,Cluj-Napoca,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+10913,2025-05-18,Brasov,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+10914,2025-12-24,Cluj-Napoca,USB-C Hub,Accessories,4,"119,00 lei",476.0
+10915,2025-08-05,Cluj-Napoca,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+10916,2025-06-17,Bucharest,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+10917,2025-07-18,Cluj-Napoca,Webcam HD,Video,1,"239,00 lei",239.0
+10918,2025-10-14,Cluj-Napoca,External SSD 1TB,Storage,2,"459,00 lei",918.0
+10919,2025-04-03,Timisoara,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+10920,2025-08-21,Cluj-Napoca,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+10921,2025-11-15,Bucharest,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+10922,2025-07-28,Brasov,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+10923,2025-06-12,Bucharest,Laptop Stand,Accessories,3,"149,00 lei",447.0
+10923,2025-06-12,Bucharest,Laptop Stand,Accessories,3,"149,00 lei",447.0
+10924,2025-02-22,Constanta,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+10925,2025-04-01,Bucharest,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+10926,2025-12-12,Timisoara,Laptop Stand,Accessories,1,"149,00 lei",149.0
+10927,2025-07-17,Cluj-Napoca,Webcam HD,Video,2,"239,00 lei",478.0
+10928,2025-04-20,Brasov,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+10929,2025-06-02,Bucharest,Laptop Stand,Accessories,1,"149,00 lei",149.0
+10930,2025-07-30,Brasov,Webcam HD,Video,2,"239,00 lei",478.0
+10931,2025-07-16,Cluj-Napoca,Laptop Stand,Accessories,1,"149,00 lei",149.0
+10932,2025-09-13,Timisoara,Webcam HD,Video,4,"239,00 lei",956.0
+10933,2025-04-04,Cluj-Napoca,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10934,2025-08-25,Bucharest,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+10935,2025-06-11,Cluj-Napoca,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+10936,2025-12-10,Bucharest,USB-C Hub,Accessories,3,"119,00 lei",357.0
+10937,2025-02-27,Bucharest,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+10938,2025-02-24,Timisoara,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+10939,2025-06-18,Cluj-Napoca,External SSD 1TB,Storage,2,"459,00 lei",918.0
+10940,2025-07-05,Bucharest,Laptop Stand,Accessories,2,"149,00 lei",298.0
+10941,2025-09-10,Bucharest,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+10942,2025-05-28,Bucharest,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+10943,2025-11-30,Bucharest,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+10944,2025-06-23,Timisoara,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10945,2025-02-17,Bucharest,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+10946,2025-02-13,Brasov,Laptop Stand,Accessories,4,"149,00 lei",596.0
+10947,2025-12-22,Bucharest,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+10948,2025-02-18,Bucharest,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+10948,2025-02-18,Bucharest,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+10949,2025-12-12,Brasov,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+10950,2025-04-12,Bucharest,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+10951,2025-02-04,Cluj-Napoca,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+10952,2025-04-22,Constanta,"Monitor 24""",Displays,1,"749,00 lei",749.0
+10953,2025-08-13,Constanta,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+10954,2025-06-06,Iasi,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+10955,2025-10-14,Bucharest,USB-C Hub,Accessories,2,"119,00 lei",238.0
+10956,2025-08-12,Timisoara,External SSD 1TB,Storage,1,"459,00 lei",459.0
+10957,2025-05-27,Constanta,Wireless Mouse,Accessories,1,"89,00 lei",89.0
+10958,2025-08-20,Constanta,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+10959,2025-12-21,Bucharest,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+10960,2025-05-31,Cluj-Napoca,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+10961,2025-02-26,Bucharest,External SSD 1TB,,2,"459,00 lei",918.0
+10962,2025-05-30,Bucharest,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+10963,2025-11-03,Iasi,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+10964,2025-03-21,Bucharest,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+10965,2025-12-13,Bucharest,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+10966,2025-08-03,Bucharest,"Monitor 24""",,1,"749,00 lei",749.0
+10967,2025-08-08,Cluj-Napoca,USB-C Hub,Accessories,2,"119,00 lei",238.0
+10968,2025-04-26,Bucharest,USB-C Hub,Accessories,2,"119,00 lei",238.0
+10969,2025-12-02,Cluj-Napoca,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+10970,2025-01-14,Bucharest,Webcam HD,Video,5,"239,00 lei",1195.0
+10971,2025-04-20,Constanta,Webcam HD,Video,5,"239,00 lei",1195.0
+10972,2025-06-02,Bucharest,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+10973,2025-06-24,Cluj-Napoca,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+10974,2025-06-23,Bucharest,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+10975,2025-02-23,Bucharest,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+10976,2025-03-24,Bucharest,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+10977,2025-02-04,Bucharest,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+10978,2025-07-28,Bucharest,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+10979,2025-05-09,Cluj-Napoca,USB-C Hub,Accessories,5,"119,00 lei",595.0
+10980,2025-07-26,Timisoara,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+10981,2025-08-04,Bucharest,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+10982,2025-09-14,Cluj-Napoca,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+10983,2025-07-19,Timisoara,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+10984,2025-08-25,Bucharest,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+10985,2025-08-03,Bucharest,Noise-cancelling Headphones,,1,"899,00 lei",899.0
+10986,2025-08-27,Bucharest,Webcam HD,Video,1,"239,00 lei",239.0
+10987,2025-08-14,Bucharest ,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+10988,2025-04-26,Cluj-Napoca,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+10989,2025-03-31,Constanta,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+10990,2025-10-15,Constanta,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+10991,2025-05-06,Constanta,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+10992,2025-07-20,Cluj-Napoca,Webcam HD,Video,3,"239,00 lei",717.0
+10993,2025-03-13,Bucharest,Laptop Stand,Accessories,5,"149,00 lei",745.0
+10994,2025-06-07,Bucharest,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+10995,2025-07-13,Bucharest,Noise-cancelling Headphones,,4,"899,00 lei",3596.0
+10996,2025-08-17,Bucharest,Webcam HD,Video,2,"239,00 lei",478.0
+10997,2025-07-12,Bucharest,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+10998,2025-05-12,Cluj-Napoca,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+10999,2025-12-18,Bucharest,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+10999,2025-12-18,Bucharest,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+11000,2025-07-07,Bucharest,Webcam HD,Video,3,"239,00 lei",717.0
+11001,2025-10-23,IASI,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+11002,2025-09-26,Bucharest,Webcam HD,Video,1,"239,00 lei",239.0
+11003,2025-07-23,Brasov,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+11004,2025-11-20,Bucharest,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+11005,2025-02-16,Cluj-Napoca,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+11006,2025-12-03,Bucharest,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+11007,2025-11-07,Cluj-Napoca,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+11008,2025-07-03,Bucharest,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+11009,2025-09-25,Bucharest,Webcam HD,Video,4,"239,00 lei",956.0
+11010,2025-07-09,Timisoara,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+11011,2025-04-09,Bucharest,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+11012,2025-10-19,Bucharest,"Monitor 24""",Displays,1,"749,00 lei",749.0
+11013,2025-03-31,Constanta,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+11014,2025-04-25,Bucharest,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+11014,2025-04-25,Bucharest,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+11015,2025-07-09,Timisoara,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+11016,2025-11-02,Cluj-Napoca,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+11017,2025-05-21,Bucharest,"Monitor 24""",Displays,1,"749,00 lei",749.0
+11018,2025-06-30,Cluj-Napoca,USB-C Hub,Accessories,3,"119,00 lei",357.0
+11019,2025-01-16,Bucharest,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+11020,2025-02-12,Iasi,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+11021,2025-01-21,Bucharest ,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+11022,2025-01-27,Bucharest,Laptop Stand,Accessories,3,"149,00 lei",447.0
+11023,2025-11-14,Bucharest,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+11024,2025-11-04,Brasov,Laptop Stand,Accessories,3,"149,00 lei",447.0
+11025,2025-10-27,Iasi,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+11026,2025-01-21,Constanta,Webcam HD,Video,1,"239,00 lei",239.0
+11027,2025-01-29,Timisoara,Laptop Stand,Accessories,2,"149,00 lei",298.0
+11028,2025-04-13,Timisoara,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+11029,2025-07-26,Cluj-Napoca,USB-C Hub,Accessories,4,"119,00 lei",476.0
+11030,2025-05-02,Brasov,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+11031,2025-06-27,Cluj-Napoca,Noise-cancelling Headphones,,2,"899,00 lei",1798.0
+11032,2025-03-05,Bucharest,USB-C Hub,Accessories,5,"119,00 lei",595.0
+11033,2025-09-24,Timisoara,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+11034,2025-04-25,Cluj-Napoca,Laptop Stand,Accessories,1,"149,00 lei",149.0
+11035,2025-01-25,Bucharest,Wireless Mouse,Accessories,1,"89,00 lei",89.0
+11036,2025-09-29,Cluj-Napoca,External SSD 1TB,Storage,2,"459,00 lei",918.0
+11037,2025-11-26,Bucharest,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+11038,2025-01-06,Brasov,Laptop Stand,Accessories,3,"149,00 lei",447.0
+11039,2025-06-09,Bucharest,USB-C Hub,Accessories,5,"119,00 lei",595.0
+11040,2025-10-29,Brasov,Laptop Stand,Accessories,2,"149,00 lei",298.0
+11041,2025-09-15,Cluj-Napoca,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+11042,2025-11-09,Iasi,USB-C Hub,Accessories,1,"119,00 lei",119.0
+11043,2025-06-01,Bucharest,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+11044,2025-05-16,Constanta,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+11045,2025-09-16,Cluj-Napoca,Laptop Stand,Accessories,5,"149,00 lei",745.0
+11046,2025-02-26,Bucharest,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+11047,2025-03-29,Bucharest,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+11048,2025-08-08,Bucharest,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+11049,2025-09-01,Bucharest,Laptop Stand,Accessories,2,"149,00 lei",298.0
+11050,2025-02-13,Iasi,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+11051,2025-07-05,Constanta,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+11052,2025-05-14,Timisoara,Laptop Stand,Accessories,1,"149,00 lei",149.0
+11053,2025-07-03,Cluj-Napoca,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+11054,2025-12-16,Cluj-Napoca,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+11055,2025-01-28,Brasov,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+11056,2025-12-30,Brasov,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+11057,2025-06-14,Bucharest,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+11058,2025-10-09,Constanta,Laptop Stand,Accessories,5,"149,00 lei",745.0
+11059,2025-06-04,Cluj-Napoca,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+11060,2025-04-24,Brasov,USB-C Hub,Accessories,4,"119,00 lei",476.0
+11061,2025-10-09,Constanta,USB-C Hub,Accessories,3,"119,00 lei",357.0
+11062,2025-09-08,Iasi,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+11063,2025-02-22,Bucharest,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+11064,2025-09-15,Timisoara,Laptop Stand,Accessories,4,"149,00 lei",596.0
+11065,2025-10-02,Bucharest,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+11065,2025-10-02,Bucharest,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+11066,2025-05-22,Iasi,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+11067,2025-12-04,Bucharest,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+11068,2025-08-22,Iasi,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+11069,2025-05-02,Constanta,Laptop Stand,Accessories,1,"149,00 lei",149.0
+11069,2025-05-02,Constanta,Laptop Stand,Accessories,1,"149,00 lei",149.0
+11070,2025-01-04,Bucharest,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+11071,2025-09-04,Cluj-Napoca,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+11072,2025-03-18,Timisoara,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+11073,2025-10-04,Cluj-Napoca,USB-C Hub,Accessories,1,"119,00 lei",119.0
+11074,2025-07-11,bucharest,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+11075,2025-06-20,Bucharest,"Monitor 24""",Displays,1,"749,00 lei",749.0
+11076,2025-03-01,Cluj-Napoca,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+11077,2025-09-17,Timisoara,Laptop Stand,Accessories,2,"149,00 lei",298.0
+11078,2025-03-02,Timisoara,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+11079,2025-06-02,Bucharest,USB-C Hub,Accessories,5,"119,00 lei",595.0
+11080,2025-11-02,Cluj-Napoca,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+11081,2025-12-02,Bucharest,"Monitor 27""",,2,"1.099,00 lei",2198.0
+11082,2025-12-28,Bucharest,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+11083,2025-12-16,Iasi,USB-C Hub,Accessories,1,"119,00 lei",119.0
+11084,2025-07-22,Bucharest,USB-C Hub,Accessories,3,"119,00 lei",357.0
+11085,2025-03-15,Cluj-Napoca,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+11086,2025-11-03,Constanta,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+11087,2025-10-20,Cluj-Napoca,Laptop Stand,Accessories,5,"149,00 lei",745.0
+11088,2025-12-28,Timisoara,Laptop Stand,Accessories,2,"149,00 lei",298.0
+11089,2025-08-26,Bucharest,USB-C Hub,Accessories,1,"119,00 lei",119.0
+11090,2025-02-21,Bucharest,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+11091,2025-07-03,Bucharest,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+11092,2025-06-13,Iasi,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+11093,2025-11-04,Brasov,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+11094,2025-05-24,Bucharest,USB-C Hub,Accessories,5,"119,00 lei",595.0
+11095,2025-04-30,Bucharest,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+11096,2025-01-30,Bucharest,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+11097,2025-11-01,Timisoara,Laptop Stand,Accessories,4,"149,00 lei",596.0
+11098,2025-10-03,Timisoara,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+11099,2025-01-16,Timisoara,Laptop Stand,Accessories,5,"149,00 lei",745.0
+11100,2025-06-08,Brasov,USB-C Hub,Accessories,2,"119,00 lei",238.0
+11101,2025-06-25,Bucharest,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+11102,2025-06-21,Timisoara,Laptop Stand,Accessories,3,"149,00 lei",447.0
+11103,2025-12-02,Cluj-Napoca,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+11104,2025-02-24,Bucharest,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+11105,2025-04-22,Brasov,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+11106,2025-03-08,Bucharest,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+11107,2025-03-31,IASI,Bluetooth Speaker,Audio,4,"279,00 lei",1116.0
+11108,2025-11-28,Iasi,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+11108,2025-11-28,Iasi,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+11109,2025-12-10,Constanta,External SSD 1TB,Storage,2,"459,00 lei",918.0
+11110,2025-01-17,Cluj-Napoca,USB-C Hub,Accessories,2,"119,00 lei",238.0
+11111,2025-08-19,Bucharest,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+11112,2025-03-26,Brasov,Noise-cancelling Headphones,,4,"899,00 lei",3596.0
+11113,2025-03-12,Iasi,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+11114,2025-04-17,Cluj-Napoca,External SSD 1TB,Storage,1,"459,00 lei",459.0
+11115,2025-03-12,Iasi,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+11116,2025-06-28,Bucharest,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+11117,2025-12-30,Timisoara,Webcam HD,Video,2,"239,00 lei",478.0
+11118,2025-08-03,Brasov,Webcam HD,Video,3,"239,00 lei",717.0
+11119,2025-09-21,Bucharest,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+11120,2025-06-30,Cluj-Napoca,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+11121,2025-01-06,Constanta,Webcam HD,Video,5,"239,00 lei",1195.0
+11122,2025-01-31,Iasi,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+11123,2025-04-09,Brasov,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+11124,2025-03-30,Cluj-Napoca,Webcam HD,Video,4,"239,00 lei",956.0
+11125,2025-11-03,Constanta,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+11126,2025-11-04,Bucharest,Bluetooth Speaker,Audio,4,"279,00 lei",1116.0
+11127,2025-11-08,Cluj-Napoca,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+11128,2025-08-21,Cluj-Napoca,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+11129,2025-07-23,Iasi,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+11130,2025-08-25,Brasov,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+11131,2025-05-29,iasi ,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+11132,2025-09-02,Timisoara,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+11133,2025-10-17,Cluj-Napoca,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+11134,2025-10-06,Cluj-Napoca,Wireless Mouse,Accessories,1,"89,00 lei",89.0
+11135,2025-08-13,Cluj-Napoca,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+11136,2025-01-22,Bucharest,Wireless Mouse,Accessories,1,"89,00 lei",89.0
+11137,2025-09-22,Cluj-Napoca,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+11138,2025-05-14,Brasov,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+11139,2025-09-29,Iasi,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+11139,2025-09-29,Iasi,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+11140,2025-07-16,Iasi,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+11141,2025-11-18,Cluj-Napoca,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+11142,2025-05-04,Cluj-Napoca,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+11143,2025-12-06,Bucharest,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+11144,2025-11-05,Cluj-Napoca,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+11145,2025-05-01,Cluj-Napoca,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+11146,2025-06-26,Bucharest,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+11147,2025-07-13,Bucharest,Webcam HD,Video,3,"239,00 lei",717.0
+11148,2025-10-08,Iasi,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+11149,2025-09-09,Cluj-Napoca,External SSD 1TB,Storage,2,"459,00 lei",918.0
+11150,2025-11-07,Cluj-Napoca,Laptop Stand,Accessories,3,"149,00 lei",447.0
+11150,2025-11-07,Cluj-Napoca,Laptop Stand,Accessories,3,"149,00 lei",447.0
+11151,2025-05-16,Bucharest,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+11152,2025-07-04,Cluj-Napoca,USB-C Hub,Accessories,4,"119,00 lei",476.0
+11153,2025-06-07,Cluj-Napoca,Laptop Stand,Accessories,2,"149,00 lei",298.0
+11154,2025-11-28,Cluj-Napoca,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+11155,2025-04-22,Timisoara,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+11156,2025-08-03,Bucharest,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+11157,2025-02-13,Brasov,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+11158,2025-11-07,Bucharest,External SSD 1TB,Storage,1,"459,00 lei",459.0
+11159,2025-05-21,Cluj-Napoca,Webcam HD,Video,1,"239,00 lei",239.0
+11160,2025-05-05,Bucharest,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+11161,2025-08-01,Cluj-Napoca,Laptop Stand,Accessories,2,"149,00 lei",298.0
+11162,2025-07-02,Bucharest,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+11163,2025-11-06,Brasov,Laptop Stand,Accessories,2,"149,00 lei",298.0
+11164,2025-07-13,Cluj-Napoca,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+11165,2025-07-08,Timisoara,Laptop Stand,Accessories,2,"149,00 lei",298.0
+11166,2025-02-08,Bucharest,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+11167,2025-01-09,Bucharest,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+11168,2025-05-26,Cluj-Napoca,USB-C Hub,Accessories,1,"119,00 lei",119.0
+11169,2025-12-31,Cluj-Napoca,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+11170,2025-12-01,Cluj-Napoca,Webcam HD,Video,1,"239,00 lei",239.0
+11171,2025-08-18,Constanta,Webcam HD,Video,4,"239,00 lei",956.0
+11172,2025-08-19,Iasi,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+11173,2025-05-23,Constanta,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+11174,2025-03-06,Bucharest,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+11175,2025-01-04,Iasi,External SSD 1TB,Storage,2,"459,00 lei",918.0
+11176,2025-05-04,Cluj-Napoca,"Monitor 24""",Displays,1,"749,00 lei",749.0
+11177,2025-04-26,Timisoara,Webcam HD,Video,2,"239,00 lei",478.0
+11178,2025-03-11,Constanta,USB-C Hub,Accessories,3,"119,00 lei",357.0
+11179,2025-04-05,Timisoara,USB-C Hub,Accessories,1,"119,00 lei",119.0
+11180,2025-01-10,Brasov,Laptop Stand,Accessories,3,"149,00 lei",447.0
+11180,2025-01-10,Brasov,Laptop Stand,Accessories,3,"149,00 lei",447.0
+11181,2025-08-10,Iasi,USB-C Hub,Accessories,5,"119,00 lei",595.0
+11182,2025-12-05,Bucharest,Laptop Stand,Accessories,4,"149,00 lei",596.0
+11183,2025-09-10,Iasi,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+11184,2025-06-13,Cluj-Napoca,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+11185,2025-06-03,Constanta,Webcam HD,Video,4,"239,00 lei",956.0
+11186,2025-04-23,Brasov,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+11187,2025-02-21,Bucharest,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+11188,2025-08-07,Bucharest,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+11189,2025-07-26,Bucharest,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+11190,2025-01-03,Cluj-Napoca,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+11191,2025-06-01,Bucharest,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+11192,2025-04-12,Iasi,Webcam HD,Video,5,"239,00 lei",1195.0
+11193,2025-03-04,Cluj-Napoca,Webcam HD,Video,3,"239,00 lei",717.0
+11194,2025-09-14,Brasov,Laptop Stand,Accessories,1,"149,00 lei",149.0
+11195,2025-07-11,Bucharest,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+11196,2025-08-20,Cluj-Napoca,Laptop Stand,Accessories,3,"149,00 lei",447.0
+11197,2025-09-18,Bucharest,USB-C Hub,Accessories,5,"119,00 lei",595.0
+11198,2025-12-25,Brasov,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+11199,2025-10-21,Bucharest,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+11200,2025-08-15,Bucharest,USB-C Hub,Accessories,5,"119,00 lei",595.0
+11201,2025-11-17,Bucharest,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+11202,2025-06-24,Brasov,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+11203,2025-12-26,Bucharest,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+11204,2025-10-05,Timisoara,Laptop Stand,Accessories,4,"149,00 lei",596.0
+11205,2025-08-26,Iasi,USB-C Hub,Accessories,3,"119,00 lei",357.0
+11206,2025-11-26,Iasi,Webcam HD,Video,3,"239,00 lei",717.0
+11207,2025-07-08,Bucharest,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+11208,2025-09-21,Bucharest,Bluetooth Speaker,Audio,4,"279,00 lei",1116.0
+11209,2025-04-14,Cluj-Napoca,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+11210,2025-12-18,Bucharest,USB-C Hub,Accessories,1,"119,00 lei",119.0
+11211,2025-08-16,Iasi,External SSD 1TB,Storage,1,"459,00 lei",459.0
+11212,2025-10-13,Bucharest,USB-C Hub,Accessories,1,"119,00 lei",119.0
+11213,2025-06-18,Cluj-Napoca,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+11214,2025-11-13,Bucharest,External SSD 1TB,,4,"459,00 lei",1836.0
+11215,2025-01-28,Timisoara,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+11216,2025-02-11,Bucharest,USB-C Hub,Accessories,2,"119,00 lei",238.0
+11217,2025-07-05,Timisoara,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+11218,2025-09-25,Bucharest,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+11219,2025-10-23,Constanta,External SSD 1TB,Storage,1,"459,00 lei",459.0
+11220,2025-06-10,Timisoara,"Monitor 27""",,2,"1.099,00 lei",2198.0
+11221,2025-08-26,Bucharest,Webcam HD,Video,2,"239,00 lei",478.0
+11222,2025-07-21,Bucharest ,USB-C Hub,Accessories,5,"119,00 lei",595.0
+11223,2025-12-17,Bucharest,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+11224,2025-08-27,Bucharest,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+11225,2025-06-02,Bucharest,Webcam HD,Video,3,"239,00 lei",717.0
+11226,2025-12-20,Brasov,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+11227,2025-02-09,Timisoara,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+11228,2025-12-26,Bucharest,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+11229,2025-02-26,Cluj-Napoca,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+11230,2025-04-16,Bucharest,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+11230,2025-04-16,Bucharest,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+11231,2025-10-27,Constanta,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+11231,2025-10-27,Constanta,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+11232,2025-09-25,Bucharest,USB-C Hub,Accessories,3,"119,00 lei",357.0
+11233,2025-12-21,Iasi,Webcam HD,Video,2,"239,00 lei",478.0
+11234,2025-10-01,IASI,Wireless Mouse,Accessories,1,"89,00 lei",89.0
+11235,2025-08-21,Bucharest,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+11236,2025-05-07,Bucharest,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+11237,2025-01-02,Cluj-Napoca,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+11238,2025-02-15,Brasov,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+11239,2025-04-19,Cluj-Napoca,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+11240,2025-01-15,Timisoara,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+11241,2025-07-05,Iasi,USB-C Hub,Accessories,2,"119,00 lei",238.0
+11242,2025-10-11,Brasov,USB-C Hub,Accessories,5,"119,00 lei",595.0
+11243,2025-12-18,Cluj-Napoca,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+11244,2025-06-28,Cluj-Napoca,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+11245,2025-11-16,Iasi,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+11246,2025-12-26,Bucharest,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+11247,2025-11-10,Brasov,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+11248,2025-06-19,Bucharest,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+11249,2025-04-29,Bucharest,Laptop Stand,Accessories,5,"149,00 lei",745.0
+11250,2025-12-23,Brasov,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+11251,2025-03-30,Bucharest,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+11252,2025-05-31,Bucharest,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+11253,2025-01-28,Bucharest,Laptop Stand,Accessories,4,"149,00 lei",596.0
+11254,2025-10-17,Cluj-Napoca,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+11255,2025-08-26,Brasov,USB-C Hub,Accessories,2,"119,00 lei",238.0
+11256,2025-01-31,Bucharest,Laptop Stand,Accessories,2,"149,00 lei",298.0
+11257,2025-03-23,Bucharest,Laptop Stand,Accessories,1,"149,00 lei",149.0
+11258,2025-07-22,Cluj-Napoca,Laptop Stand,Accessories,2,"149,00 lei",298.0
+11259,2025-07-17,Constanta,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+11260,2025-10-20,Bucharest,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+11261,2025-04-08,Constanta,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+11262,2025-12-04,Brasov,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+11263,2025-06-12,Bucharest ,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+11264,2025-10-28,Brasov,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+11265,2025-03-29,Timisoara,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+11266,2025-01-14,Cluj-Napoca,Webcam HD,Video,5,"239,00 lei",1195.0
+11267,2025-01-21,Cluj-Napoca,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+11268,2025-05-17,Brasov,Webcam HD,Video,4,"239,00 lei",956.0
+11269,2025-12-14,Iasi,Laptop Stand,Accessories,4,"149,00 lei",596.0
+11270,2025-01-18,Iasi,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+11271,2025-05-15,Constanta,Laptop Stand,Accessories,1,"149,00 lei",149.0
+11271,2025-05-15,Constanta,Laptop Stand,Accessories,1,"149,00 lei",149.0
+11272,2025-02-09,Cluj-Napoca,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+11273,2025-12-07,Brasov,Webcam HD,Video,2,"239,00 lei",478.0
+11274,2025-09-04,Brasov,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+11275,2025-10-06,Bucharest,USB-C Hub,,4,"119,00 lei",476.0
+11276,2025-09-18,Bucharest,External SSD 1TB,Storage,2,"459,00 lei",918.0
+11277,2025-08-28,Cluj-Napoca,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+11277,2025-08-28,Cluj-Napoca,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+11278,2025-10-10,Brasov,USB-C Hub,Accessories,5,"119,00 lei",595.0
+11279,2025-01-03,Bucharest,External SSD 1TB,Storage,2,"459,00 lei",918.0
+11280,2025-11-12,Iasi,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+11281,2025-09-28,Bucharest,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+11282,2025-09-27,Bucharest,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+11283,2025-05-24,Timisoara,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+11284,2025-10-20,Bucharest,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+11285,2025-05-20,Brasov,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+11286,2025-01-18,Bucharest,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+11287,2025-11-28,Brasov,Laptop Stand,Accessories,2,"149,00 lei",298.0
+11288,2025-03-27,BUCHAREST,USB-C Hub,Accessories,5,"119,00 lei",595.0
+11289,2025-02-07,Constanta,Laptop Stand,Accessories,2,"149,00 lei",298.0
+11290,2025-08-15,Timisoara,Laptop Stand,,2,"149,00 lei",298.0
+11291,2025-03-27,Bucharest,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+11292,2025-11-10,Bucharest,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+11293,2025-06-11,Bucharest,USB-C Hub,Accessories,2,"119,00 lei",238.0
+11293,2025-06-11,Bucharest,USB-C Hub,Accessories,2,"119,00 lei",238.0
+11294,2025-01-02,Timisoara,USB-C Hub,Accessories,4,"119,00 lei",476.0
+11295,2025-12-14,Brasov,Laptop Stand,,5,"149,00 lei",745.0
+11296,2025-07-07,Cluj-Napoca,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+11297,2025-04-06,Cluj-Napoca,USB-C Hub,Accessories,1,"119,00 lei",119.0
+11298,2025-09-05,Timisoara,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+11299,2025-07-13,Cluj-Napoca,"Monitor 24""",Displays,1,"749,00 lei",749.0
+11300,2025-01-11,Timisoara,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+11301,2025-10-05,Cluj-Napoca,Webcam HD,Video,1,"239,00 lei",239.0
+11302,2025-05-27,Iasi,USB-C Hub,Accessories,5,"119,00 lei",595.0
+11303,2025-09-13,Constanta,Webcam HD,Video,1,"239,00 lei",239.0
+11304,2025-11-23,Bucharest,USB-C Hub,Accessories,3,"119,00 lei",357.0
+11305,2025-08-11,Bucharest,Laptop Stand,Accessories,2,"149,00 lei",298.0
+11306,2025-09-03,Bucharest,USB-C Hub,,5,"119,00 lei",595.0
+11307,2025-04-03,Cluj-Napoca,USB-C Hub,Accessories,2,"119,00 lei",238.0
+11308,2025-03-28,Bucharest,Laptop Stand,Accessories,4,"149,00 lei",596.0
+11309,2025-06-01,Constanta,Wireless Mouse,Accessories,1,"89,00 lei",89.0
+11310,2025-11-08,Timisoara,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+11311,2025-07-11,Cluj-Napoca,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+11312,2025-05-08,Iasi,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+11313,2025-10-12,Bucharest,External SSD 1TB,Storage,2,"459,00 lei",918.0
+11314,2025-11-08,Brasov,USB-C Hub,Accessories,2,"119,00 lei",238.0
+11315,2025-11-26,Bucharest,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+11316,2025-04-20,Timisoara,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+11317,2025-09-17,Constanta,Webcam HD,Video,3,"239,00 lei",717.0
+11318,2025-08-04,Iasi,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+11319,2025-06-13,Brasov,USB-C Hub,Accessories,4,"119,00 lei",476.0
+11320,2025-05-25,Cluj-Napoca,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+11321,2025-02-11,Brasov,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+11322,2025-04-11,Cluj-Napoca,Laptop Stand,Accessories,5,"149,00 lei",745.0
+11323,2025-07-20,Timisoara,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+11324,2025-11-20,Bucharest,Webcam HD,Video,2,"239,00 lei",478.0
+11325,2025-11-13,Bucharest,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+11326,2025-03-10,Cluj-Napoca,Noise-cancelling Headphones,,2,"899,00 lei",1798.0
+11327,2025-09-05,Bucharest,Laptop Stand,Accessories,3,"149,00 lei",447.0
+11328,2025-01-31,Iasi,USB-C Hub,Accessories,2,"119,00 lei",238.0
+11329,2025-09-04,Brasov,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+11330,2025-05-05,Constanta,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+11331,2025-06-14,Bucharest,Webcam HD,Video,3,"239,00 lei",717.0
+11332,2025-09-19,Constanta,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+11333,2025-06-05,Bucharest,USB-C Hub,Accessories,2,"119,00 lei",238.0
+11334,2025-10-22,Cluj-Napoca,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+11335,2025-07-14,Brasov,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+11336,2025-12-31,Bucharest,USB-C Hub,Accessories,1,"119,00 lei",119.0
+11337,2025-08-21,Bucharest,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+11338,2025-04-19,Bucharest,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+11339,2025-10-10,Cluj-Napoca,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+11340,2025-05-29,Brasov,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+11341,2025-07-14,Bucharest,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+11342,2025-02-19,Bucharest,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+11342,2025-02-19,Bucharest,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+11343,2025-02-13,Timisoara,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+11344,2025-07-29,Bucharest,Webcam HD,Video,3,"239,00 lei",717.0
+11345,2025-03-10,Iasi,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+11346,2025-12-31,Constanta,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+11347,2025-11-09,Iasi,Webcam HD,Video,3,"239,00 lei",717.0
+11348,2025-09-13,Brasov,Laptop Stand,Accessories,3,"149,00 lei",447.0
+11349,2025-09-26,Cluj-Napoca,Laptop Stand,Accessories,2,"149,00 lei",298.0
+11350,2025-08-06,Brasov,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+11351,2025-01-23,Bucharest,Laptop Stand,Accessories,2,"149,00 lei",298.0
+11352,2025-05-24,Bucharest,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+11353,2025-06-30,Timisoara,Laptop Stand,Accessories,1,"149,00 lei",149.0
+11354,2025-12-01,Bucharest,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+11355,2025-03-22,Brasov,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+11356,2025-07-01,Iasi,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+11357,2025-05-06,Constanta,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+11358,2025-02-19,Bucharest,Bluetooth Speaker,Audio,4,"279,00 lei",1116.0
+11359,2025-02-07,Cluj-Napoca,Laptop Stand,Accessories,1,"149,00 lei",149.0
+11360,2025-05-14,Iasi,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+11361,2025-01-31,Bucharest,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+11362,2025-01-25,Cluj-Napoca,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+11363,2025-05-09,Timisoara,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+11364,2025-03-15,Constanta,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+11365,2025-07-22,IASI,Laptop Stand,Accessories,2,"149,00 lei",298.0
+11366,2025-01-07,Bucharest,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+11367,2025-04-21,Cluj-Napoca,Webcam HD,Video,1,"239,00 lei",239.0
+11368,2025-06-15,Timisoara,USB-C Hub,Accessories,3,"119,00 lei",357.0
+11369,2025-12-18,Bucharest,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+11370,2025-08-20,Cluj-Napoca,Laptop Stand,Accessories,2,"149,00 lei",298.0
+11371,2025-11-18,Bucharest,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+11372,2025-05-06,Bucharest,USB-C Hub,Accessories,4,"119,00 lei",476.0
+11373,2025-06-14,Cluj-Napoca,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+11374,2025-06-03,Bucharest,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+11375,2025-11-20,Timisoara,Webcam HD,Video,4,"239,00 lei",956.0
+11376,2025-12-17,Bucharest,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+11377,2025-12-18,Iasi,"Monitor 24""",Displays,1,"749,00 lei",749.0
+11378,2025-10-02,Bucharest,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+11379,2025-07-03,Brasov,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+11380,2025-07-17,Bucharest,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+11381,2025-12-24,Cluj-Napoca,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+11381,2025-12-24,Cluj-Napoca,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+11382,2025-04-14,Bucharest,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+11383,2025-05-07,Bucharest,External SSD 1TB,Storage,2,"459,00 lei",918.0
+11384,2025-11-24,Cluj-Napoca,External SSD 1TB,Storage,2,"459,00 lei",918.0
+11385,2025-05-22,Brasov,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+11386,2025-03-27,Constanta,USB-C Hub,Accessories,5,"119,00 lei",595.0
+11387,2025-07-24,Bucharest,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+11388,2025-04-29,Bucharest,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+11389,2025-11-22,Iasi,USB-C Hub,Accessories,3,"119,00 lei",357.0
+11390,2025-11-28,Timisoara,Webcam HD,Video,5,"239,00 lei",1195.0
+11391,2025-04-22,Bucharest,USB-C Hub,Accessories,1,"119,00 lei",119.0
+11391,2025-04-22,Bucharest,USB-C Hub,Accessories,1,"119,00 lei",119.0
+11392,2025-07-13,Iasi,"Monitor 24""",Displays,1,"749,00 lei",749.0
+11393,2025-12-26,Cluj-Napoca,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+11394,2025-09-28,Timisoara,Laptop Stand,Accessories,5,"149,00 lei",745.0
+11395,2025-03-20,Bucharest,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+11396,2025-08-04,Cluj-Napoca,Noise-cancelling Headphones,,1,"899,00 lei",899.0
+11397,2025-08-15,Bucharest,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+11398,2025-08-27,Iasi,External SSD 1TB,Storage,2,"459,00 lei",918.0
+11399,2025-01-10,Bucharest,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+11400,2025-04-20,Iasi,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+11401,2025-11-08,Iasi,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+11402,2025-03-30,Iasi,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+11403,2025-04-20,Bucharest,Laptop Stand,Accessories,4,"149,00 lei",596.0
+11404,2025-04-28,Bucharest,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+11405,2025-03-06,Cluj-Napoca,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+11406,2025-02-26,Timisoara,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+11407,2025-05-07,Constanta,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+11408,2025-11-16,Bucharest,Webcam HD,Video,5,"239,00 lei",1195.0
+11409,2025-01-01,Brasov,Webcam HD,Video,3,"239,00 lei",717.0
+11410,2025-04-14,Bucharest,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+11411,2025-01-23,Bucharest,Wireless Mouse,Accessories,1,"89,00 lei",89.0
+11412,2025-07-24,Bucharest,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+11413,2025-04-02,Iasi,USB-C Hub,,3,"119,00 lei",357.0
+11414,2025-10-17,Bucharest,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+11415,2025-08-02,Bucharest,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+11416,2025-10-14,Iasi,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+11417,2025-08-20,Cluj-Napoca,Webcam HD,,2,"239,00 lei",478.0
+11418,2025-06-10,Bucharest,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+11419,2025-11-11,Bucharest,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+11420,2025-06-23,Cluj-Napoca,USB-C Hub,Accessories,4,"119,00 lei",476.0
+11421,2025-12-13,Bucharest,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+11422,2025-12-30,Bucharest,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+11423,2025-08-03,Timisoara,Webcam HD,Video,1,"239,00 lei",239.0
+11424,2025-09-04,Bucharest,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+11425,2025-04-04,Timisoara,Webcam HD,Video,2,"239,00 lei",478.0
+11426,2025-10-25,Bucharest,External SSD 1TB,Storage,2,"459,00 lei",918.0
+11427,2025-09-03,Bucharest,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+11428,2025-11-26,Bucharest,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+11429,2025-04-08,Bucharest,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+11430,2025-10-15,Bucharest,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+11431,2025-06-21,Bucharest,USB-C Hub,Accessories,5,"119,00 lei",595.0
+11432,2025-03-09,Brasov,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+11433,2025-03-04,Brasov,USB-C Hub,Accessories,2,"119,00 lei",238.0
+11434,2025-07-25,Bucharest,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+11435,2025-04-27,Timisoara,USB-C Hub,Accessories,3,"119,00 lei",357.0
+11436,2025-02-07,Timisoara,Webcam HD,Video,5,"239,00 lei",1195.0
+11437,2025-06-05,Brasov,USB-C Hub,Accessories,3,"119,00 lei",357.0
+11438,2025-08-27,Bucharest,Webcam HD,Video,1,"239,00 lei",239.0
+11439,2025-04-27,Bucharest,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+11440,2025-12-15,Bucharest,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+11441,2025-10-12,Bucharest,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+11442,2025-07-07,Bucharest,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+11443,2025-12-08,Brasov,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+11444,2025-06-08,Constanta,USB-C Hub,,5,"119,00 lei",595.0
+11445,2025-02-20,Bucharest,External SSD 1TB,Storage,2,"459,00 lei",918.0
+11446,2025-01-14,Cluj-Napoca,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+11447,2025-12-09,Cluj-Napoca,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+11448,2025-12-17,Cluj-Napoca,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+11449,2025-09-27,Cluj-Napoca,Webcam HD,Video,3,"239,00 lei",717.0
+11450,2025-02-07,Bucharest,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+11451,2025-04-18,Brasov,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+11452,2025-01-15,Constanta,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+11453,2025-01-19,Timisoara,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+11454,2025-03-31,Timisoara,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+11455,2025-07-28,Cluj-Napoca,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+11456,2025-01-24,Bucharest,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+11457,2025-12-26,Bucharest,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+11458,2025-06-16,Timisoara,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+11459,2025-04-07,Bucharest,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+11460,2025-07-08,Brasov,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+11461,2025-10-16,Cluj-Napoca,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+11462,2025-04-25,Cluj-Napoca,External SSD 1TB,Storage,1,"459,00 lei",459.0
+11463,2025-01-18,Bucharest,Bluetooth Speaker,Audio,4,"279,00 lei",1116.0
+11464,2025-01-19,Constanta,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+11465,2025-11-07,Bucharest,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+11466,2025-02-10,Bucharest,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+11467,2025-08-20,Bucharest,"Monitor 24""",Displays,1,"749,00 lei",749.0
+11468,2025-05-21,Timisoara,USB-C Hub,Accessories,2,"119,00 lei",238.0
+11469,2025-10-11,Constanta,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+11470,2025-01-23,Bucharest,Bluetooth Speaker,,2,"279,00 lei",558.0
+11471,2025-11-24,Brasov,USB-C Hub,Accessories,3,"119,00 lei",357.0
+11472,2025-09-12,Bucharest,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+11473,2025-06-13,Timisoara,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+11474,2025-03-17,Bucharest,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+11475,2025-12-23,Cluj-Napoca,USB-C Hub,Accessories,1,"119,00 lei",119.0
+11476,2025-04-21,Timisoara,USB-C Hub,Accessories,3,"119,00 lei",357.0
+11477,2025-06-29,Cluj-Napoca,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+11478,2025-05-24,Bucharest,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+11479,2025-03-26,Brasov,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+11480,2025-06-02,Constanta,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+11481,2025-02-25,Cluj-Napoca,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+11482,2025-01-01,Timisoara,USB-C Hub,Accessories,1,"119,00 lei",119.0
+11483,2025-04-16,Iasi,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+11484,2025-02-10,Bucharest,USB-C Hub,Accessories,5,"119,00 lei",595.0
+11485,2025-06-01,Brasov,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+11486,2025-11-11,Bucharest,Wireless Mouse,Accessories,1,"89,00 lei",89.0
+11487,2025-03-01,Iasi,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+11488,2025-01-01,Bucharest,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+11489,2025-02-10,Bucharest,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+11490,2025-07-05,Cluj-Napoca,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+11491,2025-04-11,Cluj-Napoca,Laptop Stand,Accessories,3,"149,00 lei",447.0
+11492,2025-06-28,Brasov,Webcam HD,Video,4,"239,00 lei",956.0
+11493,2025-01-11,Constanta,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+11494,2025-05-02,Bucharest,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+11495,2025-05-30,Bucharest,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+11496,2025-06-07,Bucharest,"Monitor 24""",Displays,1,"749,00 lei",749.0
+11497,2025-07-21,Cluj-Napoca,Laptop Stand,Accessories,4,"149,00 lei",596.0
+11498,2025-10-12,Cluj-Napoca,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+11499,2025-06-20,Brasov,Laptop Stand,Accessories,5,"149,00 lei",745.0
+11500,2025-11-04,Iasi,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+11501,2025-07-13,Bucharest,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+11501,2025-07-13,Bucharest,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+11502,2025-04-06,Cluj-Napoca,Webcam HD,Video,2,"239,00 lei",478.0
+11503,2025-03-25,Timisoara,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+11504,2025-04-28,Cluj-Napoca,USB-C Hub,Accessories,4,"119,00 lei",476.0
+11504,2025-04-28,Cluj-Napoca,USB-C Hub,Accessories,4,"119,00 lei",476.0
+11505,2025-08-07,Bucharest,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+11506,2025-03-30,Cluj-Napoca,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+11507,2025-11-30,Cluj-Napoca,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+11508,2025-06-25,Bucharest,Bluetooth Speaker,,1,"279,00 lei",279.0
+11509,2025-11-12,Iasi,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+11510,2025-09-07,Bucharest,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+11511,2025-05-02,Timisoara,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+11512,2025-03-25,Cluj-Napoca,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+11513,2025-09-29,Brasov,Laptop Stand,Accessories,5,"149,00 lei",745.0
+11514,2025-05-01,Bucharest,Laptop Stand,Accessories,5,"149,00 lei",745.0
+11515,2025-04-01,Bucharest,USB-C Hub,Accessories,3,"119,00 lei",357.0
+11516,2025-12-06,Bucharest,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+11517,2025-06-26,Cluj-Napoca,Laptop Stand,Accessories,3,"149,00 lei",447.0
+11518,2025-01-18,Bucharest,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+11519,2025-06-30,Iasi,Webcam HD,Video,3,"239,00 lei",717.0
+11520,2025-06-18,Bucharest,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+11521,2025-11-12,Bucharest,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+11522,2025-09-17,Cluj-Napoca,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+11523,2025-03-11,Iasi,Bluetooth Speaker,,4,"279,00 lei",1116.0
+11524,2025-02-24,Brasov,Laptop Stand,Accessories,5,"149,00 lei",745.0
+11525,2025-08-09,Iasi,USB-C Hub,Accessories,4,"119,00 lei",476.0
+11526,2025-01-18,Cluj-Napoca,USB-C Hub,Accessories,1,"119,00 lei",119.0
+11527,2025-04-27,Iasi,Laptop Stand,,3,"149,00 lei",447.0
+11528,2025-02-20,Timisoara,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+11529,2025-01-08,Bucharest,Laptop Stand,Accessories,1,"149,00 lei",149.0
+11530,2025-12-02,Cluj-Napoca,Laptop Stand,Accessories,1,"149,00 lei",149.0
+11531,2025-02-02,Iasi,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+11532,2025-01-04,Bucharest,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+11533,2025-12-07,Timisoara,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+11534,2025-03-10,Cluj-Napoca,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+11535,2025-10-26,Cluj-Napoca,Wireless Mouse,Accessories,1,"89,00 lei",89.0
+11536,2025-01-12,Bucharest,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+11537,2025-02-26,Timisoara,Wireless Mouse,Accessories,1,"89,00 lei",89.0
+11538,2025-02-10,Brasov,Laptop Stand,Accessories,5,"149,00 lei",745.0
+11539,2025-09-15,Bucharest ,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+11540,2025-08-15,Bucharest,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+11541,2025-06-23,Bucharest,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+11542,2025-03-30,Bucharest,"Monitor 24""",Displays,1,"749,00 lei",749.0
+11543,2025-02-02,Constanta,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+11544,2025-07-27,Cluj-Napoca,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+11545,2025-03-26,Bucharest,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+11546,2025-08-04,Bucharest,Webcam HD,Video,5,"239,00 lei",1195.0
+11547,2025-09-08,Constanta,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+11548,2025-11-07,Bucharest,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+11549,2025-06-30,iasi ,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+11550,2025-01-02,Bucharest,Webcam HD,Video,4,"239,00 lei",956.0
+11551,2025-04-13,Bucharest,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+11552,2025-11-08,Timisoara,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+11553,2025-07-14,Bucharest,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+11554,2025-08-14,Timisoara,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+11555,2025-06-17,Bucharest,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+11556,2025-03-01,Iasi,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+11557,2025-11-24,Iasi,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+11558,2025-10-10,Iasi,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+11559,2025-12-30,Bucharest,Laptop Stand,Accessories,3,"149,00 lei",447.0
+11560,2025-11-09,Iasi,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+11561,2025-04-17,Constanta,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+11562,2025-04-03,Bucharest,Laptop Stand,Accessories,1,"149,00 lei",149.0
+11563,2025-04-01,Bucharest,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+11564,2025-12-02,Brasov,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+11565,2025-07-23,Bucharest,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+11566,2025-06-15,Timisoara,USB-C Hub,Accessories,4,"119,00 lei",476.0
+11567,2025-12-20,Iasi,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+11568,2025-08-09,Bucharest,Laptop Stand,Accessories,2,"149,00 lei",298.0
+11569,2025-11-28,Cluj-Napoca,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+11570,2025-12-26,Timisoara,USB-C Hub,Accessories,2,"119,00 lei",238.0
+11571,2025-01-29,Bucharest,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+11572,2025-05-12,Brasov,Bluetooth Speaker,Audio,4,"279,00 lei",1116.0
+11573,2025-09-25,Bucharest,Webcam HD,Video,2,"239,00 lei",478.0
+11574,2025-10-24,Bucharest,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+11574,2025-10-24,Bucharest,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+11575,2025-02-24,Brasov,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+11576,2025-04-27,Bucharest,Webcam HD,,3,"239,00 lei",717.0
+11577,2025-07-20,Brasov,Webcam HD,Video,3,"239,00 lei",717.0
+11578,2025-10-19,Bucharest,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+11579,2025-02-11,Cluj-Napoca,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+11580,2025-08-08,Bucharest,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+11581,2025-04-19,Timisoara,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+11582,2025-03-20,Iasi,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+11583,2025-07-08,Brasov,USB-C Hub,Accessories,4,"119,00 lei",476.0
+11584,2025-06-01,Constanta,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+11585,2025-08-21,Timisoara,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+11586,2025-04-26,Iasi,USB-C Hub,Accessories,4,"119,00 lei",476.0
+11587,2025-10-28,Cluj-Napoca,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+11588,2025-01-29,Constanta,Webcam HD,Video,5,"239,00 lei",1195.0
+11589,2025-11-11,Timisoara,Webcam HD,Video,5,"239,00 lei",1195.0
+11590,2025-01-11,Brasov,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+11591,2025-09-26,Bucharest,Laptop Stand,Accessories,1,"149,00 lei",149.0
+11592,2025-05-07,Cluj-Napoca,USB-C Hub,Accessories,3,"119,00 lei",357.0
+11593,2025-05-20,Iasi,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+11594,2025-01-07,Bucharest,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+11595,2025-09-14,Bucharest,USB-C Hub,Accessories,5,"119,00 lei",595.0
+11596,2025-03-02,Constanta,USB-C Hub,Accessories,2,"119,00 lei",238.0
+11597,2025-08-29,Cluj-Napoca,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+11598,2025-09-22,Bucharest,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+11599,2025-11-05,Bucharest,USB-C Hub,Accessories,4,"119,00 lei",476.0
+11600,2025-09-16,Cluj-Napoca,Webcam HD,Video,4,"239,00 lei",956.0
+11601,2025-04-21,Timisoara,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+11602,2025-09-27,Constanta,Webcam HD,Video,5,"239,00 lei",1195.0
+11603,2025-10-29,Constanta,Laptop Stand,Accessories,1,"149,00 lei",149.0
+11604,2025-04-26,Timisoara,Webcam HD,Video,3,"239,00 lei",717.0
+11605,2025-02-15,Iasi,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+11606,2025-11-21,Bucharest,Laptop Stand,Accessories,1,"149,00 lei",149.0
+11607,2025-02-23,Brasov,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+11608,2025-08-05,Bucharest,Webcam HD,Video,3,"239,00 lei",717.0
+11609,2025-03-28,Bucharest,Webcam HD,Video,4,"239,00 lei",956.0
+11610,2025-02-15,Constanta,Webcam HD,Video,1,"239,00 lei",239.0
+11611,2025-10-11,Brasov,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+11612,2025-02-22,Bucharest,Webcam HD,Video,2,"239,00 lei",478.0
+11613,2025-09-02,Timisoara,Webcam HD,Video,4,"239,00 lei",956.0
+11614,2025-09-10,Cluj-Napoca,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+11615,2025-01-22,Bucharest,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+11616,2025-03-05,Bucharest,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+11617,2025-10-17,Bucharest,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+11618,2025-07-05,Cluj-Napoca,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+11619,2025-02-14,Cluj-Napoca,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+11620,2025-12-28,Cluj-Napoca,Wireless Mouse,Accessories,1,"89,00 lei",89.0
+11621,2025-04-07,Bucharest,External SSD 1TB,Storage,1,"459,00 lei",459.0
+11622,2025-01-02,Constanta,USB-C Hub,Accessories,1,"119,00 lei",119.0
+11623,2025-12-04,Timisoara,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+11624,2025-01-07,Brasov,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+11625,2025-07-21,Bucharest,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+11626,2025-12-29,Timisoara,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+11627,2025-07-30,Brasov,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+11628,2025-08-02,Bucharest,USB-C Hub,Accessories,1,"119,00 lei",119.0
+11629,2025-05-22,Bucharest,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+11630,2025-02-16,Bucharest,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+11631,2025-07-29,Bucharest,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+11632,2025-11-24,Cluj-Napoca,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+11633,2025-02-03,Bucharest,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+11634,2025-11-18,Bucharest,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+11635,2025-06-01,Timisoara,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+11636,2025-07-15,Bucharest,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+11637,2025-03-02,Bucharest,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+11638,2025-08-15,Timisoara,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+11639,2025-03-08,Bucharest,Wireless Mouse,Accessories,1,"89,00 lei",89.0
+11640,2025-04-10,Bucharest,Webcam HD,Video,5,"239,00 lei",1195.0
+11641,2025-09-21,Bucharest,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+11642,2025-01-19,Bucharest,External SSD 1TB,Storage,2,"459,00 lei",918.0
+11643,2025-06-13,Cluj-Napoca,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+11644,2025-08-06,Bucharest,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+11645,2025-02-18,BUCHAREST,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+11646,2025-04-18,Constanta,"Monitor 24""",Displays,1,"749,00 lei",749.0
+11647,2025-05-06,Constanta,Webcam HD,Video,5,"239,00 lei",1195.0
+11648,2025-08-31,Bucharest,Webcam HD,Video,5,"239,00 lei",1195.0
+11649,2025-12-23,Bucharest,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+11650,2025-11-02,Cluj-Napoca,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+11651,2025-03-11,Brasov,Laptop Stand,Accessories,5,"149,00 lei",745.0
+11652,2025-01-07,Brasov,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+11653,2025-01-19,Bucharest,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+11654,2025-08-06,Bucharest,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+11655,2025-02-27,Cluj-Napoca,Webcam HD,Video,2,"239,00 lei",478.0
+11656,2025-03-26,Brasov,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+11657,2025-11-06,Brasov,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+11658,2025-11-15,Bucharest,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+11659,2025-11-03,Timisoara,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+11659,2025-11-03,Timisoara,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+11660,2025-04-03,Bucharest,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+11661,2025-08-15,Timisoara,"Monitor 24""",Displays,1,"749,00 lei",749.0
+11662,2025-08-11,Constanta,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+11663,2025-03-09,Cluj-Napoca,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+11664,2025-07-22,Bucharest,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+11665,2025-07-11,Timisoara,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+11666,2025-05-25,Cluj-Napoca,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+11667,2025-10-02,Brasov,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+11668,2025-09-05,Bucharest,Laptop Stand,Accessories,5,"149,00 lei",745.0
+11669,2025-07-14,Brasov,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+11670,2025-09-22,Bucharest,USB-C Hub,Accessories,4,"119,00 lei",476.0
+11671,2025-10-06,Bucharest,Laptop Stand,Accessories,2,"149,00 lei",298.0
+11672,2025-07-26,Bucharest,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+11672,2025-07-26,Bucharest,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+11673,2025-04-08,Bucharest,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+11674,2025-10-04,Bucharest,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+11675,2025-09-19,Timisoara,Webcam HD,Video,3,"239,00 lei",717.0
+11675,2025-09-19,Timisoara,Webcam HD,Video,3,"239,00 lei",717.0
+11676,2025-12-25,Bucharest,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+11677,2025-02-24,Bucharest,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+11678,2025-06-03,Bucharest,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+11679,2025-12-04,Bucharest,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+11680,2025-07-07,Brasov,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+11681,2025-12-11,Constanta,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+11682,2025-01-05,Bucharest,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+11683,2025-01-13,Iasi,USB-C Hub,Accessories,2,"119,00 lei",238.0
+11684,2025-10-18,Iasi,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+11685,2025-05-11,Constanta,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+11686,2025-07-09,Bucharest,Laptop Stand,Accessories,3,"149,00 lei",447.0
+11687,2025-06-06,Bucharest,Laptop Stand,Accessories,4,"149,00 lei",596.0
+11688,2025-05-29,Cluj-Napoca,External SSD 1TB,Storage,2,"459,00 lei",918.0
+11689,2025-12-09,Brasov,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+11690,2025-02-04,Iasi,Laptop Stand,Accessories,2,"149,00 lei",298.0
+11691,2025-10-09,Cluj-Napoca,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+11692,2025-11-21,Bucharest,Webcam HD,Video,3,"239,00 lei",717.0
+11693,2025-08-28,Iasi,Laptop Stand,Accessories,5,"149,00 lei",745.0
+11694,2025-05-25,Brasov,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+11695,2025-02-28,Cluj-Napoca,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+11696,2025-09-07,Timisoara,Webcam HD,Video,1,"239,00 lei",239.0
+11697,2025-06-21,Cluj-Napoca,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+11698,2025-02-24,Cluj-Napoca,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+11699,2025-05-12,Cluj-Napoca,USB-C Hub,Accessories,4,"119,00 lei",476.0
+11700,2025-12-17,Iasi,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+11701,2025-04-07,Constanta,Laptop Stand,Accessories,4,"149,00 lei",596.0
+11702,2025-03-07,Cluj-Napoca,USB-C Hub,Accessories,2,"119,00 lei",238.0
+11703,2025-09-06,Bucharest,USB-C Hub,Accessories,2,"119,00 lei",238.0
+11704,2025-03-14,Bucharest,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+11705,2025-12-02,Bucharest,External SSD 1TB,Storage,2,"459,00 lei",918.0
+11706,2025-11-10,Bucharest,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+11706,2025-11-10,Bucharest,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+11707,2025-12-25,Bucharest,Laptop Stand,Accessories,3,"149,00 lei",447.0
+11708,2025-11-30,Cluj-Napoca,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+11709,2025-03-30,Bucharest,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+11710,2025-03-19,Bucharest,Bluetooth Speaker,Audio,4,"279,00 lei",1116.0
+11711,2025-05-06,Iasi,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+11712,2025-06-21,Bucharest,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+11713,2025-11-18,Timisoara,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+11713,2025-11-18,Timisoara,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+11714,2025-09-25,Brasov,USB-C Hub,Accessories,4,"119,00 lei",476.0
+11715,2025-08-24,Timisoara,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+11716,2025-11-17,Bucharest,USB-C Hub,Accessories,3,"119,00 lei",357.0
+11717,2025-08-24,Bucharest,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+11718,2025-05-19,Timisoara,USB-C Hub,Accessories,4,"119,00 lei",476.0
+11719,2025-05-31,Cluj-Napoca,Webcam HD,Video,1,"239,00 lei",239.0
+11720,2025-07-08,Bucharest,USB-C Hub,Accessories,3,"119,00 lei",357.0
+11721,2025-02-02,Cluj-Napoca,Webcam HD,Video,5,"239,00 lei",1195.0
+11722,2025-09-28,Cluj-Napoca,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+11723,2025-08-27,Bucharest,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+11724,2025-09-24,Timisoara,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+11725,2025-07-14,Bucharest,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+11726,2025-10-13,Bucharest,External SSD 1TB,Storage,2,"459,00 lei",918.0
+11727,2025-12-13,Brasov,Laptop Stand,Accessories,3,"149,00 lei",447.0
+11728,2025-07-28,Bucharest,"Monitor 24""",Displays,1,"749,00 lei",749.0
+11729,2025-06-12,Timisoara,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+11730,2025-02-08,Cluj-Napoca,Webcam HD,Video,3,"239,00 lei",717.0
+11731,2025-10-12,Bucharest,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+11732,2025-11-26,Constanta,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+11733,2025-09-13,Bucharest,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+11734,2025-11-12,Bucharest,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+11735,2025-11-11,Brasov,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+11736,2025-10-19,Iasi,USB-C Hub,Accessories,3,"119,00 lei",357.0
+11737,2025-07-03,Timisoara,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+11738,2025-02-06,Bucharest,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+11739,2025-01-02,Bucharest,Webcam HD,Video,2,"239,00 lei",478.0
+11740,2025-03-16,Timisoara,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+11741,2025-06-07,Bucharest,USB-C Hub,Accessories,4,"119,00 lei",476.0
+11742,2025-09-29,Bucharest,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+11743,2025-06-16,Iasi,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+11744,2025-01-09,Bucharest,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+11745,2025-03-18,Bucharest,USB-C Hub,Accessories,1,"119,00 lei",119.0
+11746,2025-12-24,Bucharest,External SSD 1TB,Storage,1,"459,00 lei",459.0
+11747,2025-12-27,Cluj-Napoca,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+11748,2025-05-18,Timisoara,External SSD 1TB,Storage,2,"459,00 lei",918.0
+11749,2025-10-21,Brasov,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+11750,2025-09-20,Bucharest,External SSD 1TB,Storage,1,"459,00 lei",459.0
+11751,2025-12-06,Bucharest,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+11752,2025-11-20,Cluj-Napoca,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+11753,2025-08-18,Bucharest,External SSD 1TB,Storage,1,"459,00 lei",459.0
+11754,2025-05-25,Cluj-Napoca,USB-C Hub,Accessories,2,"119,00 lei",238.0
+11755,2025-08-17,Constanta,Wireless Mouse,Accessories,1,"89,00 lei",89.0
+11756,2025-04-27,Cluj-Napoca,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+11757,2025-05-08,Cluj-Napoca,Webcam HD,Video,2,"239,00 lei",478.0
+11758,2025-08-11,Constanta,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+11759,2025-07-28,Bucharest,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+11760,2025-08-01,Constanta,"Monitor 24""",Displays,1,"749,00 lei",749.0
+11761,2025-05-21,Cluj-Napoca,Laptop Stand,Accessories,1,"149,00 lei",149.0
+11762,2025-05-30,Cluj-Napoca,"Monitor 24""",Displays,1,"749,00 lei",749.0
+11763,2025-01-04,Constanta,"Monitor 24""",Displays,1,"749,00 lei",749.0
+11764,2025-08-08,Cluj-Napoca,Webcam HD,Video,1,"239,00 lei",239.0
+11765,2025-07-30,Cluj-Napoca,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+11766,2025-12-08,Bucharest,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+11767,2025-07-04,Timisoara,Webcam HD,,2,"239,00 lei",478.0
+11768,2025-06-20,Timisoara,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+11769,2025-01-25,Bucharest,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+11770,2025-03-13,Iasi,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+11771,2025-05-04,Timisoara,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+11772,2025-05-18,Cluj-Napoca,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+11773,2025-05-13,Bucharest,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+11774,2025-05-24,Cluj-Napoca,Laptop Stand,Accessories,1,"149,00 lei",149.0
+11775,2025-10-08,Bucharest,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+11776,2025-02-17,Bucharest,Laptop Stand,Accessories,5,"149,00 lei",745.0
+11777,2025-05-02,Cluj-Napoca,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+11778,2025-03-01,Bucharest,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+11779,2025-04-23,Bucharest,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+11780,2025-09-07,Timisoara,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+11781,2025-01-18,Bucharest,Wireless Mouse,Accessories,1,"89,00 lei",89.0
+11782,2025-05-04,Constanta,USB-C Hub,Accessories,1,"119,00 lei",119.0
+11783,2025-01-09,Constanta,Laptop Stand,Accessories,5,"149,00 lei",745.0
+11784,2025-12-15,Timisoara,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+11785,2025-09-23,Constanta,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+11786,2025-03-30,Brasov,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+11787,2025-03-14,Bucharest,Laptop Stand,Accessories,4,"149,00 lei",596.0
+11788,2025-02-06,Iasi,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+11789,2025-06-22,Bucharest,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+11790,2025-10-03,Timisoara,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+11791,2025-08-02,Cluj-Napoca,Laptop Stand,Accessories,4,"149,00 lei",596.0
+11792,2025-11-18,Bucharest,Laptop Stand,Accessories,1,"149,00 lei",149.0
+11793,2025-05-06,bucharest,USB-C Hub,Accessories,2,"119,00 lei",238.0
+11794,2025-04-12,Constanta,Webcam HD,Video,5,"239,00 lei",1195.0
+11795,2025-06-24,Bucharest,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+11796,2025-03-15,Bucharest,USB-C Hub,Accessories,2,"119,00 lei",238.0
+11797,2025-12-23,Bucharest,Webcam HD,Video,5,"239,00 lei",1195.0
+11798,2025-03-09,Cluj-Napoca,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+11799,2025-06-24,Brasov,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+11800,2025-07-10,Iasi,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+11801,2025-01-21,Cluj-Napoca,External SSD 1TB,Storage,1,"459,00 lei",459.0
+11802,2025-06-20,Bucharest,"Monitor 24""",,2,"749,00 lei",1498.0
+11803,2025-06-15,Bucharest,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+11804,2025-04-05,Cluj-Napoca,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+11805,2025-02-16,Brasov,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+11806,2025-01-17,Iasi,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+11807,2025-01-04,Cluj-Napoca,Laptop Stand,Accessories,3,"149,00 lei",447.0
+11808,2025-06-25,Timisoara,Laptop Stand,Accessories,5,"149,00 lei",745.0
+11809,2025-02-02,Cluj-Napoca,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+11810,2025-12-17,Timisoara,Webcam HD,Video,2,"239,00 lei",478.0
+11811,2025-03-31,Cluj-Napoca,USB-C Hub,Accessories,4,"119,00 lei",476.0
+11812,2025-08-27,Timisoara,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+11813,2025-09-03,Cluj-Napoca,Webcam HD,Video,2,"239,00 lei",478.0
+11814,2025-06-30,Constanta,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+11815,2025-11-19,Cluj-Napoca,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+11816,2025-02-10,Bucharest,Wireless Mouse,Accessories,1,"89,00 lei",89.0
+11817,2025-03-27,Bucharest,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+11818,2025-04-03,Cluj-Napoca,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+11819,2025-02-19,Cluj-Napoca,Webcam HD,Video,2,"239,00 lei",478.0
+11820,2025-04-18,Cluj-Napoca,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+11820,2025-04-18,Cluj-Napoca,Bluetooth Speaker,Audio,3,"279,00 lei",837.0
+11821,2025-04-25,Iasi,Laptop Stand,Accessories,4,"149,00 lei",596.0
+11822,2025-10-07,Bucharest,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+11823,2025-04-21,Timisoara,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+11824,2025-11-16,Iasi,Laptop Stand,Accessories,1,"149,00 lei",149.0
+11825,2025-10-10,Cluj-Napoca,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+11826,2025-11-26,Cluj-Napoca,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+11827,2025-02-08,Bucharest,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+11828,2025-12-26,Cluj-Napoca,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+11829,2025-08-13,IASI,Webcam HD,Video,1,"239,00 lei",239.0
+11830,2025-12-25,Brasov,Laptop Stand,Accessories,3,"149,00 lei",447.0
+11831,2025-05-10,Timisoara,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+11832,2025-12-14,Bucharest,USB-C Hub,Accessories,1,"119,00 lei",119.0
+11833,2025-08-03,Timisoara,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+11834,2025-01-27,Iasi,Webcam HD,Video,2,"239,00 lei",478.0
+11835,2025-05-30,bucharest,Laptop Stand,Accessories,2,"149,00 lei",298.0
+11836,2025-02-20,Brasov,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+11837,2025-12-10,Bucharest,Laptop Stand,Accessories,5,"149,00 lei",745.0
+11838,2025-04-22,Bucharest,"Monitor 24""",Displays,1,"749,00 lei",749.0
+11839,2025-03-23,Bucharest,External SSD 1TB,Storage,2,"459,00 lei",918.0
+11840,2025-07-21,Bucharest,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+11841,2025-06-05,Brasov,Bluetooth Speaker,Audio,4,"279,00 lei",1116.0
+11842,2025-02-05,Cluj-Napoca,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+11843,2025-10-26,Bucharest,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+11844,2025-11-05,Cluj-Napoca,Mechanical Keyboard,Accessories,1,"329,00 lei",329.0
+11845,2025-09-29,Cluj-Napoca,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+11846,2025-08-14,Bucharest,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+11847,2025-05-27,Bucharest,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+11848,2025-07-17,Timisoara,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+11849,2025-07-10,Bucharest,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+11850,2025-03-02,Iasi,USB-C Hub,Accessories,1,"119,00 lei",119.0
+11851,2025-01-30,Bucharest,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+11852,2025-04-03,iasi ,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+11853,2025-06-15,Brasov,Laptop Stand,Accessories,2,"149,00 lei",298.0
+11854,2025-02-28,Bucharest,Mechanical Keyboard,Accessories,4,"329,00 lei",1316.0
+11855,2025-02-08,Bucharest,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+11856,2025-11-07,Constanta,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+11857,2025-05-17,Cluj-Napoca,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+11858,2025-08-02,Timisoara,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+11859,2025-07-11,Bucharest,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+11860,2025-09-26,Bucharest,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+11861,2025-09-28,Cluj-Napoca,"Monitor 24""",Displays,3,"749,00 lei",2247.0
+11862,2025-04-19,Brasov,Webcam HD,Video,3,"239,00 lei",717.0
+11863,2025-11-06,Bucharest,USB-C Hub,Accessories,3,"119,00 lei",357.0
+11864,2025-05-16,Iasi,Webcam HD,Video,2,"239,00 lei",478.0
+11865,2025-11-01,Timisoara,Webcam HD,Video,5,"239,00 lei",1195.0
+11866,2025-05-28,Bucharest,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+11867,2025-02-10,Bucharest,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+11868,2025-10-05,Bucharest,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+11869,2025-01-12,Cluj-Napoca,USB-C Hub,Accessories,5,"119,00 lei",595.0
+11870,2025-10-09,Timisoara,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+11871,2025-01-16,Cluj-Napoca,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+11872,2025-03-17,Bucharest,Laptop Stand,Accessories,3,"149,00 lei",447.0
+11873,2025-08-09,IASI,Bluetooth Speaker,Audio,4,"279,00 lei",1116.0
+11874,2025-12-10,Timisoara,"Monitor 27""",Displays,2,"1.099,00 lei",2198.0
+11875,2025-05-30,Cluj-Napoca,Webcam HD,Video,4,"239,00 lei",956.0
+11876,2025-02-14,Cluj-Napoca,Webcam HD,Video,1,"239,00 lei",239.0
+11877,2025-03-27,Bucharest,Webcam HD,Video,5,"239,00 lei",1195.0
+11878,2025-11-24,Timisoara,USB-C Hub,Accessories,2,"119,00 lei",238.0
+11879,2025-09-23,Cluj-Napoca,Laptop Stand,Accessories,4,"149,00 lei",596.0
+11880,2025-02-06,Bucharest,Wireless Mouse,Accessories,1,"89,00 lei",89.0
+11881,2025-05-21,Bucharest,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+11882,2025-04-07,Timisoara,USB-C Hub,Accessories,5,"119,00 lei",595.0
+11883,2025-03-06,Timisoara,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+11884,2025-11-05,Bucharest,"Monitor 27""",,2,"1.099,00 lei",2198.0
+11885,2025-08-14,Brasov,Laptop Stand,Accessories,1,"149,00 lei",149.0
+11886,2025-03-07,Brasov,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+11887,2025-08-26,Bucharest,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+11888,2025-05-31,Iasi,Laptop Stand,Accessories,1,"149,00 lei",149.0
+11889,2025-01-23,Cluj-Napoca,Laptop Stand,Accessories,4,"149,00 lei",596.0
+11890,2025-06-14,Constanta,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+11891,2025-03-09,Bucharest,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+11892,2025-03-31,Bucharest,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+11893,2025-11-17,Cluj-Napoca,"Monitor 27""",Displays,1,"1.099,00 lei",1099.0
+11894,2025-09-17,Bucharest,USB-C Hub,Accessories,2,"119,00 lei",238.0
+11895,2025-02-18,IASI,Webcam HD,Video,3,"239,00 lei",717.0
+11896,2025-11-07,Cluj-Napoca,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+11897,2025-07-29,Bucharest,"Monitor 24""",Displays,1,"749,00 lei",749.0
+11898,2025-11-16,Cluj-Napoca,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+11899,2025-09-30,Brasov,Mechanical Keyboard,,4,"329,00 lei",1316.0
+11900,2025-05-04,Iasi,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+11901,2025-07-15,Cluj-Napoca,"Monitor 24""",Displays,5,"749,00 lei",3745.0
+11902,2025-07-13,Bucharest,External SSD 1TB,Storage,1,"459,00 lei",459.0
+11903,2025-09-20,Bucharest,"Monitor 24""",Displays,1,"749,00 lei",749.0
+11904,2025-04-01,Brasov,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+11905,2025-05-02,Iasi,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+11905,2025-05-02,Iasi,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+11906,2025-03-31,Timisoara,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+11907,2025-04-19,Brasov,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+11908,2025-02-28,Bucharest,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+11909,2025-01-14,Timisoara,Laptop Stand,Accessories,4,"149,00 lei",596.0
+11910,2025-12-10,Bucharest,External SSD 1TB,Storage,3,"459,00 lei",1377.0
+11911,2025-01-28,Bucharest,USB-C Hub,Accessories,1,"119,00 lei",119.0
+11912,2025-11-21,Cluj-Napoca,External SSD 1TB,Storage,2,"459,00 lei",918.0
+11913,2025-01-02,Cluj-Napoca,Laptop Stand,Accessories,4,"149,00 lei",596.0
+11914,2025-10-11,Constanta,"Monitor 24""",Displays,1,"749,00 lei",749.0
+11915,2025-04-30,Bucharest,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+11916,2025-07-08,Brasov,Wireless Mouse,Accessories,1,"89,00 lei",89.0
+11917,2025-04-14,Iasi,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+11918,2025-06-29,Timisoara,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+11919,2025-06-14,Constanta,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+11920,2025-07-13,Cluj-Napoca,Webcam HD,Video,5,"239,00 lei",1195.0
+11921,2025-05-24,Cluj-Napoca,External SSD 1TB,Storage,1,"459,00 lei",459.0
+11922,2025-07-15,Bucharest,Webcam HD,Video,4,"239,00 lei",956.0
+11923,2025-10-29,Bucharest,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+11924,2025-06-08,Brasov,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+11925,2025-05-12,Cluj-Napoca,Webcam HD,Video,5,"239,00 lei",1195.0
+11926,2025-02-18,Bucharest,"Monitor 24""",Displays,1,"749,00 lei",749.0
+11927,2025-05-12,Bucharest,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+11928,2025-02-15,Cluj-Napoca,Laptop Stand,Accessories,3,"149,00 lei",447.0
+11929,2025-03-08,iasi ,Webcam HD,Video,1,"239,00 lei",239.0
+11930,2025-12-14,Bucharest,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+11931,2025-02-02,Iasi,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+11932,2025-06-25,Timisoara,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+11933,2025-11-01,Iasi,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+11934,2025-12-14,Bucharest,Noise-cancelling Headphones,Audio,2,"899,00 lei",1798.0
+11935,2025-02-23,Timisoara,Laptop Stand,Accessories,5,"149,00 lei",745.0
+11936,2025-03-01,Bucharest,Bluetooth Speaker,Audio,2,"279,00 lei",558.0
+11937,2025-05-16,Bucharest,"Monitor 24""",Displays,1,"749,00 lei",749.0
+11938,2025-07-22,Iasi,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+11939,2025-12-17,Timisoara,Noise-cancelling Headphones,Audio,5,"899,00 lei",4495.0
+11940,2025-03-17,Bucharest,"Monitor 24""",Displays,1,"749,00 lei",749.0
+11941,2025-03-02,Brasov,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+11942,2025-04-03,Bucharest,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+11943,2025-11-16,Timisoara,External SSD 1TB,Storage,1,"459,00 lei",459.0
+11944,2025-01-11,Constanta,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+11945,2025-05-19,Cluj-Napoca,Laptop Stand,Accessories,2,"149,00 lei",298.0
+11946,2025-02-13,Brasov,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+11947,2025-02-27,Timisoara,Wireless Mouse,Accessories,2,"89,00 lei",178.0
+11948,2025-12-01,Iasi,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+11948,2025-12-01,Iasi,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+11949,2025-01-01,Timisoara,External SSD 1TB,Storage,5,"459,00 lei",2295.0
+11950,2025-04-28,Iasi,Laptop Stand,Accessories,3,"149,00 lei",447.0
+11951,2025-12-01,Bucharest,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+11951,2025-12-01,Bucharest,Mechanical Keyboard,Accessories,3,"329,00 lei",987.0
+11952,2025-08-10,Iasi,USB-C Hub,Accessories,5,"119,00 lei",595.0
+11953,2025-01-27,Bucharest,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+11954,2025-06-19,Constanta,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+11955,2025-12-21,Bucharest,"Monitor 24""",Displays,4,"749,00 lei",2996.0
+11956,2025-05-27,Bucharest,External SSD 1TB,Storage,4,"459,00 lei",1836.0
+11957,2025-07-12,Brasov,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+11958,2025-07-14,Bucharest,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+11959,2025-08-30,Bucharest,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+11960,2025-03-10,Iasi,USB-C Hub,Accessories,5,"119,00 lei",595.0
+11961,2025-11-03,Bucharest,External SSD 1TB,Storage,1,"459,00 lei",459.0
+11962,2025-12-27,Bucharest,Bluetooth Speaker,Audio,4,"279,00 lei",1116.0
+11962,2025-12-27,Bucharest,Bluetooth Speaker,Audio,4,"279,00 lei",1116.0
+11963,2025-02-22,Cluj-Napoca,Webcam HD,Video,5,"239,00 lei",1195.0
+11964,2025-10-26,Bucharest,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+11965,2025-10-26,Bucharest,Laptop Stand,Accessories,4,"149,00 lei",596.0
+11966,2025-09-28,Bucharest,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+11967,2025-05-16,Bucharest,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+11968,2025-06-21,Bucharest,USB-C Hub,Accessories,4,"119,00 lei",476.0
+11969,2025-11-03,Bucharest,"Monitor 24""",Displays,1,"749,00 lei",749.0
+11970,2025-02-25,Timisoara,Webcam HD,Video,1,"239,00 lei",239.0
+11971,2025-10-30,Timisoara,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+11972,2025-12-03,Bucharest,External SSD 1TB,Storage,2,"459,00 lei",918.0
+11973,2025-09-06,Bucharest,Laptop Stand,Accessories,3,"149,00 lei",447.0
+11974,2025-05-05,Brasov,USB-C Hub,Accessories,1,"119,00 lei",119.0
+11975,2025-07-24,Timisoara,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+11976,2025-01-19,Cluj-Napoca,Webcam HD,Video,3,"239,00 lei",717.0
+11977,2025-12-07,Cluj-Napoca,Webcam HD,Video,5,"239,00 lei",1195.0
+11978,2025-05-05,Bucharest,External SSD 1TB,Storage,1,"459,00 lei",459.0
+11979,2025-01-21,Brasov,"Monitor 24""",Displays,2,"749,00 lei",1498.0
+11980,2025-10-17,Constanta,Laptop Stand,Accessories,4,"149,00 lei",596.0
+11981,2025-08-29,Constanta,"Monitor 27""",Displays,4,"1.099,00 lei",4396.0
+11982,2025-08-16,Bucharest,Wireless Mouse,Accessories,4,"89,00 lei",356.0
+11983,2025-01-20,Bucharest,Webcam HD,Video,5,"239,00 lei",1195.0
+11984,2025-10-02,Bucharest,Webcam HD,Video,5,"239,00 lei",1195.0
+11985,2025-08-21,Bucharest,Bluetooth Speaker,Audio,1,"279,00 lei",279.0
+11986,2025-10-17,Bucharest,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+11987,2025-10-29,Timisoara,Mechanical Keyboard,Accessories,5,"329,00 lei",1645.0
+11988,2025-03-19,Bucharest,Wireless Mouse,Accessories,3,"89,00 lei",267.0
+11989,2025-03-18,Constanta,"Monitor 27""",Displays,5,"1.099,00 lei",5495.0
+11990,2025-12-04,Bucharest,"Monitor 27""",Displays,3,"1.099,00 lei",3297.0
+11991,2025-07-13,Bucharest,Noise-cancelling Headphones,Audio,1,"899,00 lei",899.0
+11992,2025-06-09,Brasov,Noise-cancelling Headphones,Audio,3,"899,00 lei",2697.0
+11993,2025-04-15,Iasi,Laptop Stand,Accessories,5,"149,00 lei",745.0
+11994,2025-08-22,Bucharest,USB-C Hub,Accessories,4,"119,00 lei",476.0
+11995,2025-10-03,Timisoara,"Monitor 24""",Displays,1,"749,00 lei",749.0
+11996,2025-01-01,Bucharest,Mechanical Keyboard,Accessories,2,"329,00 lei",658.0
+11997,2025-07-21,Bucharest,Wireless Mouse,Accessories,5,"89,00 lei",445.0
+11998,2025-12-29,Cluj-Napoca,Bluetooth Speaker,Audio,5,"279,00 lei",1395.0
+11999,2025-04-13,Bucharest,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+11999,2025-04-13,Bucharest,Noise-cancelling Headphones,Audio,4,"899,00 lei",3596.0
+12000,2025-04-13,Timisoara,"Monitor 24""",Displays,1,"749,00 lei",749.0

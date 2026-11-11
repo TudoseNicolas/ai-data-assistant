@@ -1,0 +1,114 @@
+/* Dark theme matching the design mockup. Streamlit's own theme lives in .streamlit/config.toml. */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap");
+
+:root {
+  --bg: #0B0D12;
+  --panel: #11141B;
+  --card: #161A23;
+  --line: #232835;
+  --text: #E6E8EE;
+  --muted: #9AA3B2;
+  --accent: #8B8CF8;
+}
+
+html, body, [class*="css"], .stMarkdown, .stText, button, input, select, textarea {
+  font-family: "Inter", system-ui, sans-serif;
+}
+code, pre, .stCode { font-family: "JetBrains Mono", ui-monospace, monospace !important; }
+
+.block-container { padding-top: 2rem; padding-bottom: 3rem; max-width: 1400px; }
+header[data-testid="stHeader"] { background: transparent; }
+
+/* Sidebar */
+section[data-testid="stSidebar"] { background: var(--panel); border-right: 1px solid #1F2430; }
+.brand { display: flex; align-items: center; gap: 12px; margin-bottom: 1.5rem; }
+.brand-mark { width: 40px; height: 40px; border-radius: 12px; background: var(--accent);
+  display: flex; align-items: center; justify-content: center; }
+.brand-name { font-size: 16px; font-weight: 700; color: var(--text); line-height: 1.2; }
+.brand-sub { font-size: 12px; color: var(--muted); }
+.section-label { font-size: 12px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase;
+  color: var(--muted); margin: 0 0 .5rem; }
+[data-testid="stFileUploaderDropzone"] { background: #0E1117; border: 1.5px dashed #2E3442; border-radius: 14px; }
+.file-card { display: flex; align-items: center; gap: 12px; padding: 12px 14px; border-radius: 12px;
+  background: #1A1D33; border: 1px solid #2B2F55; margin-top: 1rem; }
+.file-card .name { font-size: 13px; font-weight: 600; color: var(--text); word-break: break-all; }
+.file-card .meta { font-size: 12px; color: #A5A6FA; }
+.status { display: flex; align-items: center; gap: 8px; font-size: 13px; color: #C3C9D4; margin-top: 1.5rem; }
+.dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
+
+/* Page title (Streamlit styles h1 itself, so these rules need to be specific) */
+.stMarkdown h1.page-title, h1.page-title { font-size: 26px !important; font-weight: 700 !important;
+  letter-spacing: -.01em; margin: 0 !important; padding: 0 !important; line-height: 1.3 !important; color: var(--text); }
+.page-sub { font-size: 14px; color: var(--muted); margin: 4px 0 1rem; }
+
+/* Tabs as a pill bar */
+.stTabs [role="tablist"] { gap: 6px !important; padding: 4px !important; background: var(--panel);
+  border: 1px solid #1F2430 !important; border-radius: 12px; width: fit-content; max-width: 100%;
+  flex-wrap: wrap; box-shadow: none !important; }
+.stTabs button[role="tab"] { height: auto !important; padding: 10px 18px !important; margin: 0 !important;
+  border-radius: 9px !important; color: #C3C9D4; background: transparent; border: none !important; }
+.stTabs button[role="tab"] p { font-size: 14px !important; font-weight: 500; }
+.stTabs button[role="tab"][aria-selected="true"] { background: var(--accent) !important; }
+.stTabs button[role="tab"][aria-selected="true"] p { color: var(--bg) !important; font-weight: 600; }
+.stTabs [data-baseweb="tab-highlight"], .stTabs [data-baseweb="tab-border"] { display: none !important; }
+.stTabs [role="tabpanel"] { padding-top: 1.5rem; }
+
+/* Section switcher (st.segmented_control) styled as the pill bar from the mockup */
+[data-testid="stButtonGroup"] { background: var(--panel); border: 1px solid #1F2430; border-radius: 12px;
+  padding: 4px; width: fit-content; max-width: 100%; }
+[data-testid="stButtonGroup"] button { border: none !important; border-radius: 9px !important;
+  background: transparent; color: #C3C9D4; padding: 10px 18px; min-height: 44px; }
+[data-testid="stButtonGroup"] button p { font-size: 14px; font-weight: 500; }
+[data-testid="stButtonGroup"] button[kind*="Active"],
+[data-testid="stButtonGroup"] button[aria-checked="true"],
+[data-testid="stButtonGroup"] button[data-testid*="Active"] { background: var(--accent) !important; color: var(--bg) !important; }
+[data-testid="stButtonGroup"] button[kind*="Active"] p,
+[data-testid="stButtonGroup"] button[aria-checked="true"] p,
+[data-testid="stButtonGroup"] button[data-testid*="Active"] p { color: var(--bg) !important; font-weight: 600; }
+.section-gap { height: .75rem; }
+
+/* Metric cards */
+[data-testid="stMetric"] { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 18px 20px; }
+[data-testid="stMetricLabel"] p { color: var(--muted); font-size: 13px; }
+[data-testid="stMetricValue"] { font-size: 30px; font-weight: 700; letter-spacing: -.02em; }
+
+/* Cards, chips and badges */
+.card { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 18px 20px; margin-bottom: 1rem; }
+.card h3 { font-size: 16px; font-weight: 600; margin: 0 0 12px; color: var(--text); }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip { font-size: 13px; padding: 8px 12px; border-radius: 999px; background: #1F2430; color: #D5DAE3; }
+.chip b { font-weight: 600; }
+.chip.warn { background: #241F12; border: 1px solid #5C4A17; }
+.t-number { color: #A5A6FA; } .t-date { color: #5EEAD4; } .t-text { color: #F0ABFC; } .t-warn { color: #FCD34D; }
+
+.issue-title { font-size: 15px; font-weight: 600; color: var(--text); }
+.issue-desc { font-size: 13px; color: var(--muted); margin-top: 4px; }
+.badge { font-size: 11px; font-weight: 700; letter-spacing: .04em; padding: 4px 8px; border-radius: 6px; margin-right: 8px; }
+.badge.high { background: #3A1A1D; color: #FCA5A5; }
+.badge.medium { background: #3A2D12; color: #FCD34D; }
+.badge.low { background: #123022; color: #86EFAC; }
+
+.compare { display: flex; justify-content: space-between; font-size: 14px; padding: 6px 0; }
+.compare .label { color: var(--muted); }
+.compare s { color: #7C8494; margin-right: 6px; }
+.compare .good { color: #86EFAC; font-weight: 700; }
+.score-bar { height: 8px; border-radius: 999px; background: var(--line); overflow: hidden; margin: 12px 0 8px; }
+.score-bar > div { height: 100%; background: #34D399; }
+.score-text { font-size: 13px; color: #86EFAC; font-weight: 600; }
+
+/* Buttons */
+.stButton > button, .stDownloadButton > button { border-radius: 10px; min-height: 44px; font-weight: 600; }
+.stButton > button[kind="primary"] { background: var(--accent); color: var(--bg); border: none; }
+.stButton > button[kind="primary"]:hover { filter: brightness(1.08); color: var(--bg); }
+.st-key-suggestions .stButton > button { border-radius: 999px; background: #1A1D33; border: 1px solid #2B2F55;
+  color: #C7C8FC; font-weight: 500; min-height: 44px; height: auto; padding: 8px 16px; }
+.st-key-suggestions .stButton > button p { white-space: normal; text-align: center; font-size: 14px; }
+.st-key-preview { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 18px 20px; margin: 1rem 0; }
+.st-key-preview h3 { font-size: 16px; font-weight: 600; margin: 0; color: var(--text); }
+
+/* Chat */
+[data-testid="stChatMessage"] { background: var(--card); border: 1px solid var(--line); border-radius: 16px; }
+[data-testid="stChatMessageAvatarCustom"], [data-testid^="stChatMessageAvatar"] { background: var(--accent) !important;
+  color: var(--bg) !important; border-radius: 50%; }
+[data-testid="stChatInput"] textarea { font-size: 15px; }
+.ok-line { font-size: 12px; color: var(--muted); }
