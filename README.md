@@ -4,7 +4,11 @@ An AI-powered tool that **finds and fixes data quality problems** in Excel/CSV f
 
 Upload a file → see what's wrong with it → clean it in one click → ask *"Which are the top 5 cities by revenue?"* and get the answer, the chart and the code that produced it.
 
-<!-- Add screenshots here after you run the app, e.g. docs/overview.png, docs/quality.png, docs/ask-ai.png -->
+![Data Quality tab](docs/data-quality.png)
+
+| Overview | Ask AI |
+|---|---|
+| ![Overview tab](docs/overview.png) | ![Ask AI tab](docs/ask-ai.png) |
 
 ## Features
 
@@ -37,6 +41,7 @@ assets/style.css     dark theme styling
 sample_data/         two synthetic demo datasets (sales, HR) with deliberate problems
 scripts/make_demo_data.py  regenerates the demo datasets
 tests/               pytest tests (the AI is replaced by a fake model)
+docs/                screenshots used in this README
 ```
 
 ## Run it locally
